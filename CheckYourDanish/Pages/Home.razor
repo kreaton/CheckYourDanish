@@ -1,0 +1,302 @@
+﻿@page "/"
+@using CheckYourDanish.Game
+@implements IAsyncDisposable
+@inject IJSRuntime JS
+@inject HttpClient Http
+
+<PageTitle>Check Your Danish</PageTitle>
+
+<main class="game">
+    <header class="topbar">
+        <h1>Check Your <span>Danish</span></h1>
+        <div class="toolbar">
+            <button class="icon-btn" @onclick="ToggleSound" title="@(_soundOn ? "Mute" : "Unmute")"
+                    aria-label="@(_soundOn ? "Mute" : "Unmute")">
+                @(_soundOn ? "🔊" : "🔇")
+            </button>
+            <button class="icon-btn" @onclick="ResetScore" title="Reset score" aria-label="Reset score">↺</button>
+        </div>
+    </header>
+
+    <section class="stats" aria-label="Score">
+        <div class="stat good"><span class="value">@_game.Correct</span><span class="label">Correct</span></div>
+        <div class="stat bad"><span class="value">@_game.Wrong</span><span class="label">Missed</span></div>
+        <div class="stat"><span class="value">@Accuracy</span><span class="label">Accuracy</span></div>
+        <div class="stat streak @(_game.Streak >= 3 ? "hot" : "")">
+            <span class="value">@_game.Streak</span><span class="label">Streak · best @_game.BestStreak</span>
+        </div>
+    </section>
+
+    <div class="play">
+        @if (_loadError is not null)
+        {
+            <p class="load-error">@_loadError</p>
+        }
+        else if (!_started)
+        {
+            <section class="intro">
+                <p>Spell the Danish word for the English noun, letter by letter, then pick its gender:
+                    <strong>en</strong> or <strong>et</strong>.</p>
+                <p class="muted">A wrong letter, a wrong gender or using <kbd>?</kbd> counts the word as missed.
+                    You can type on your own keyboard too.</p>
+                @* Browsers only allow sound after a user gesture, so the first word waits for this one. *@
+                <button class="primary-btn" @onclick="NextRound" disabled="@(!_game.HasWords)">Start</button>
+            </section>
+        }
+        else if (_game.Current is { } word)
+        {
+            <section class="prompt" @key="_round">
+                <span class="eyebrow">Translate</span>
+                <h2 class="english">@word.English[0]</h2>
+                @if (word.English.Length > 1)
+                {
+                    <span class="also">also: @string.Join(", ", word.English.Skip(1))</span>
+                }
+            </section>
+
+            <section class="word-row">
+                <div class="boxes stage-@_game.Stage.ToString().ToLowerInvariant() @(_game.Stage == Stage.Done && !_game.Failed ? "perfect" : "")"
+                     style="--letters:@word.Letters.Length">
+                    @for (var i = 0; i < word.Letters.Length; i++)
+                    {
+                        var index = i;
+                        var ch = word.Letters[index];
+                        var state = !char.IsLetter(ch) ? "sep"
+                            : index == 0 ? "given"
+                            : index < _game.Filled ? "filled"
+                            : index == _game.Filled ? "current" : "";
+                        <span class="box @state @(_game.HintAt == index ? "hint" : "") @(index == _game.Filled && _shake > 0 ? "shake" : "")"
+                              @key="@(index == _game.Filled ? $"{index}-{_shake}" : index.ToString())"
+                              style="--i:@index">
+                            @if (index < _game.Filled || _game.HintAt == index || !char.IsLetter(ch))
+                            {
+                                @ch
+                            }
+                        </span>
+                    }
+                </div>
+                <button class="hint-btn" @onclick="ShowHint" disabled="@(_game.Stage != Stage.Spelling)"
+                        title="Show the next letter (counts as missed)" aria-label="Show the next letter">?</button>
+            </section>
+
+            <section class="answer" aria-live="polite">
+                @if (_game.Stage == Stage.Gender)
+                {
+                    <p class="question">Which gender?</p>
+                    <div class="genders">
+                        @foreach (var gender in SpellingGame.Genders)
+                        {
+                            <button class="gender-btn @(_game.WrongGender == gender ? "wrong" : "")"
+                                    @key="@(_game.WrongGender == gender ? $"{gender}-{_shake}" : gender)"
+                                    disabled="@(_game.WrongGender == gender)"
+                                    @onclick="() => PickGender(gender)">
+                                <span class="article">@gender</span>
+                                <span class="word">@word.Danish</span>
+                            </button>
+                        }
+                    </div>
+                }
+                else if (_game.Stage == Stage.Done)
+                {
+                    <div class="result @(_game.Failed ? "missed" : "perfect")">
+                        <span class="verdict">@(_game.Failed ? "Got there — counted as missed" : "Perfect!")</span>
+                        <span class="full"><em>@word.Gender</em> @word.Danish</span>
+                    </div>
+                    <button class="primary-btn" @onclick="NextRound">Next word <kbd>Enter</kbd></button>
+                }
+            </section>
+
+            <section class="keyboard @(_game.Stage != Stage.Spelling ? "inactive" : "")" aria-label="Letters">
+                @foreach (var row in SpellingGame.KeyboardRows)
+                {
+                    <div class="key-row">
+                        @foreach (var letter in row)
+                        {
+                            var isHint = _game.HintAt is not null && _game.NextLetter is { } next && SpellingGame.KeyFor(next) == letter;
+                            var isWrong = _wrongLetter == letter;
+                            <button class="key @(isHint ? "hint" : "") @(isWrong ? "wrong" : "")"
+                                    @key="@(isWrong ? $"{letter}-{_shake}" : letter.ToString())"
+                                    @onclick="() => Type(letter)" disabled="@(_game.Stage != Stage.Spelling)">
+                                @letter
+                            </button>
+                        }
+                    </div>
+                }
+            </section>
+        }
+    </div>
+
+    <footer class="credits">Lavet med kærlighed 💛 (c) 2026 Per Hejndorf, Kreaton – @BuildInfo.Display</footer>
+</main>
+
+@code {
+    private const string ScoreKey = "checkyourdanish.score";
+
+    private readonly SpellingGame _game = new();
+    private DotNetObjectReference<Home>? _self;
+    private char? _wrongLetter;
+    private int _shake;
+    private int _round;
+    private bool _soundOn = true;
+    private string? _loadError;
+    private bool _started;
+
+    private string Accuracy => _game.Correct + _game.Wrong == 0
+        ? "–"
+        : $"{100.0 * _game.Correct / (_game.Correct + _game.Wrong):0}%";
+
+    private sealed record SavedScore(int Correct, int Wrong, int BestStreak, bool SoundOn = true);
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var words = await Http.GetFromJsonAsync<List<Noun>>("danish_nouns.json") ?? [];
+            _game.SetWords(words);
+        }
+        catch (Exception ex) when (ex is HttpRequestException or System.Text.Json.JsonException)
+        {
+            _loadError = "The word list (danish_nouns.json) could not be loaded.";
+            return;
+        }
+
+        if (!_game.HasWords) _loadError = "The word list is empty.";
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender) return;
+
+        var json = await JS.InvokeAsync<string?>("gameStore.load", ScoreKey);
+        if (json is not null)
+        {
+            try
+            {
+                var saved = System.Text.Json.JsonSerializer.Deserialize<SavedScore>(json);
+                if (saved is not null)
+                {
+                    _game.SetScore(saved.Correct, saved.Wrong, saved.BestStreak);
+                    _soundOn = saved.SoundOn;
+                    StateHasChanged();
+                }
+            }
+            catch (System.Text.Json.JsonException)
+            {
+                // A broken saved score just starts from zero.
+            }
+        }
+
+        _self = DotNetObjectReference.Create(this);
+        await JS.InvokeVoidAsync("gameKeys.attach", _self);
+    }
+
+    [JSInvokable]
+    public async Task OnKey(string key)
+    {
+        if (!_started)
+        {
+            if (key == "Enter" && _game.HasWords) NextRound();
+        }
+        else if (_game.Stage == Stage.Spelling)
+        {
+            if (key == "?") ShowHint();
+            else if (key.Length == 1 && char.IsLetter(key[0])) await Type(SpellingGame.KeyFor(key[0]));
+        }
+        else if (_game.Stage == Stage.Gender)
+        {
+            if (key is "1" or "2") await PickGender(SpellingGame.Genders[key[0] - '1']);
+        }
+        else if (key == "Enter")
+        {
+            NextRound();
+        }
+        StateHasChanged();
+    }
+
+    private void NextRound()
+    {
+        _started = true;
+        _game.NewRound();
+        _wrongLetter = null;
+        _round++;
+    }
+
+    private async Task Type(char letter)
+    {
+        if (_game.TryLetter(letter))
+        {
+            _wrongLetter = null;
+            if (_game.Stage == Stage.Spelling) await Play("letter");
+        }
+        else
+        {
+            _wrongLetter = letter;
+            _shake++;
+            await Play("error");
+        }
+    }
+
+    private void ShowHint()
+    {
+        _game.Hint();
+        _wrongLetter = null;
+    }
+
+    private async Task PickGender(string gender)
+    {
+        if (_game.TryGender(gender))
+        {
+            if (!_game.Failed) await Play("success");
+            await SaveScore();
+        }
+        else
+        {
+            _shake++;
+            await Play("error");
+        }
+    }
+
+    private async Task ResetScore()
+    {
+        _game.ResetScore();
+        await SaveScore();
+    }
+
+    private async Task ToggleSound()
+    {
+        _soundOn = !_soundOn;
+        await SaveScore();
+    }
+
+    private async Task SaveScore()
+    {
+        var json = System.Text.Json.JsonSerializer.Serialize(
+            new SavedScore(_game.Correct, _game.Wrong, _game.BestStreak, _soundOn));
+        await JS.InvokeVoidAsync("gameStore.save", ScoreKey, json);
+    }
+
+    private async Task Play(string sound)
+    {
+        if (!_soundOn) return;
+        try
+        {
+            await JS.InvokeVoidAsync($"gameSounds.{sound}");
+        }
+        catch (JSException)
+        {
+            // No audio support: the game still works without sound.
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        try
+        {
+            await JS.InvokeVoidAsync("gameKeys.detach");
+        }
+        catch (JSDisconnectedException)
+        {
+        }
+        _self?.Dispose();
+    }
+}

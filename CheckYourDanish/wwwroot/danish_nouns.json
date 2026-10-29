@@ -1,0 +1,7266 @@
+[
+  {
+    "danish": "mand",
+    "gender": "en",
+    "english": [
+      "man",
+      "husband"
+    ]
+  },
+  {
+    "danish": "kvinde",
+    "gender": "en",
+    "english": [
+      "woman"
+    ]
+  },
+  {
+    "danish": "barn",
+    "gender": "et",
+    "english": [
+      "child"
+    ]
+  },
+  {
+    "danish": "dreng",
+    "gender": "en",
+    "english": [
+      "boy"
+    ]
+  },
+  {
+    "danish": "pige",
+    "gender": "en",
+    "english": [
+      "girl"
+    ]
+  },
+  {
+    "danish": "mor",
+    "gender": "en",
+    "english": [
+      "mother"
+    ]
+  },
+  {
+    "danish": "far",
+    "gender": "en",
+    "english": [
+      "father"
+    ]
+  },
+  {
+    "danish": "forælder",
+    "gender": "en",
+    "english": [
+      "parent"
+    ]
+  },
+  {
+    "danish": "søn",
+    "gender": "en",
+    "english": [
+      "son"
+    ]
+  },
+  {
+    "danish": "datter",
+    "gender": "en",
+    "english": [
+      "daughter"
+    ]
+  },
+  {
+    "danish": "bror",
+    "gender": "en",
+    "english": [
+      "brother"
+    ]
+  },
+  {
+    "danish": "søster",
+    "gender": "en",
+    "english": [
+      "sister"
+    ]
+  },
+  {
+    "danish": "bedstemor",
+    "gender": "en",
+    "english": [
+      "grandmother"
+    ]
+  },
+  {
+    "danish": "bedstefar",
+    "gender": "en",
+    "english": [
+      "grandfather"
+    ]
+  },
+  {
+    "danish": "onkel",
+    "gender": "en",
+    "english": [
+      "uncle"
+    ]
+  },
+  {
+    "danish": "tante",
+    "gender": "en",
+    "english": [
+      "aunt"
+    ]
+  },
+  {
+    "danish": "fætter",
+    "gender": "en",
+    "english": [
+      "cousin (male)"
+    ]
+  },
+  {
+    "danish": "kusine",
+    "gender": "en",
+    "english": [
+      "cousin (female)"
+    ]
+  },
+  {
+    "danish": "nevø",
+    "gender": "en",
+    "english": [
+      "nephew"
+    ]
+  },
+  {
+    "danish": "niece",
+    "gender": "en",
+    "english": [
+      "niece"
+    ]
+  },
+  {
+    "danish": "barnebarn",
+    "gender": "et",
+    "english": [
+      "grandchild"
+    ]
+  },
+  {
+    "danish": "familie",
+    "gender": "en",
+    "english": [
+      "family"
+    ]
+  },
+  {
+    "danish": "slægt",
+    "gender": "en",
+    "english": [
+      "family",
+      "lineage"
+    ]
+  },
+  {
+    "danish": "ægtefælle",
+    "gender": "en",
+    "english": [
+      "spouse"
+    ]
+  },
+  {
+    "danish": "kone",
+    "gender": "en",
+    "english": [
+      "wife"
+    ]
+  },
+  {
+    "danish": "kæreste",
+    "gender": "en",
+    "english": [
+      "boyfriend",
+      "girlfriend"
+    ]
+  },
+  {
+    "danish": "ven",
+    "gender": "en",
+    "english": [
+      "friend"
+    ]
+  },
+  {
+    "danish": "nabo",
+    "gender": "en",
+    "english": [
+      "neighbour"
+    ]
+  },
+  {
+    "danish": "gæst",
+    "gender": "en",
+    "english": [
+      "guest"
+    ]
+  },
+  {
+    "danish": "person",
+    "gender": "en",
+    "english": [
+      "person"
+    ]
+  },
+  {
+    "danish": "menneske",
+    "gender": "et",
+    "english": [
+      "human being",
+      "person"
+    ]
+  },
+  {
+    "danish": "folk",
+    "gender": "et",
+    "english": [
+      "people"
+    ]
+  },
+  {
+    "danish": "baby",
+    "gender": "en",
+    "english": [
+      "baby"
+    ]
+  },
+  {
+    "danish": "teenager",
+    "gender": "en",
+    "english": [
+      "teenager"
+    ]
+  },
+  {
+    "danish": "voksen",
+    "gender": "en",
+    "english": [
+      "adult"
+    ]
+  },
+  {
+    "danish": "pensionist",
+    "gender": "en",
+    "english": [
+      "pensioner"
+    ]
+  },
+  {
+    "danish": "borger",
+    "gender": "en",
+    "english": [
+      "citizen"
+    ]
+  },
+  {
+    "danish": "kollega",
+    "gender": "en",
+    "english": [
+      "colleague"
+    ]
+  },
+  {
+    "danish": "chef",
+    "gender": "en",
+    "english": [
+      "boss"
+    ]
+  },
+  {
+    "danish": "leder",
+    "gender": "en",
+    "english": [
+      "leader",
+      "manager"
+    ]
+  },
+  {
+    "danish": "medarbejder",
+    "gender": "en",
+    "english": [
+      "employee"
+    ]
+  },
+  {
+    "danish": "arbejder",
+    "gender": "en",
+    "english": [
+      "worker"
+    ]
+  },
+  {
+    "danish": "lærer",
+    "gender": "en",
+    "english": [
+      "teacher"
+    ]
+  },
+  {
+    "danish": "elev",
+    "gender": "en",
+    "english": [
+      "pupil",
+      "student"
+    ]
+  },
+  {
+    "danish": "studerende",
+    "gender": "en",
+    "english": [
+      "student"
+    ]
+  },
+  {
+    "danish": "læge",
+    "gender": "en",
+    "english": [
+      "doctor"
+    ]
+  },
+  {
+    "danish": "sygeplejerske",
+    "gender": "en",
+    "english": [
+      "nurse"
+    ]
+  },
+  {
+    "danish": "tandlæge",
+    "gender": "en",
+    "english": [
+      "dentist"
+    ]
+  },
+  {
+    "danish": "politibetjent",
+    "gender": "en",
+    "english": [
+      "police officer"
+    ]
+  },
+  {
+    "danish": "soldat",
+    "gender": "en",
+    "english": [
+      "soldier"
+    ]
+  },
+  {
+    "danish": "præst",
+    "gender": "en",
+    "english": [
+      "priest",
+      "minister"
+    ]
+  },
+  {
+    "danish": "advokat",
+    "gender": "en",
+    "english": [
+      "lawyer"
+    ]
+  },
+  {
+    "danish": "dommer",
+    "gender": "en",
+    "english": [
+      "judge",
+      "referee"
+    ]
+  },
+  {
+    "danish": "ingeniør",
+    "gender": "en",
+    "english": [
+      "engineer"
+    ]
+  },
+  {
+    "danish": "kok",
+    "gender": "en",
+    "english": [
+      "cook",
+      "chef"
+    ]
+  },
+  {
+    "danish": "tjener",
+    "gender": "en",
+    "english": [
+      "waiter",
+      "servant"
+    ]
+  },
+  {
+    "danish": "landmand",
+    "gender": "en",
+    "english": [
+      "farmer"
+    ]
+  },
+  {
+    "danish": "fisker",
+    "gender": "en",
+    "english": [
+      "fisherman"
+    ]
+  },
+  {
+    "danish": "håndværker",
+    "gender": "en",
+    "english": [
+      "craftsman",
+      "tradesman"
+    ]
+  },
+  {
+    "danish": "tømrer",
+    "gender": "en",
+    "english": [
+      "carpenter"
+    ]
+  },
+  {
+    "danish": "elektriker",
+    "gender": "en",
+    "english": [
+      "electrician"
+    ]
+  },
+  {
+    "danish": "maler",
+    "gender": "en",
+    "english": [
+      "painter"
+    ]
+  },
+  {
+    "danish": "kunstner",
+    "gender": "en",
+    "english": [
+      "artist"
+    ]
+  },
+  {
+    "danish": "forfatter",
+    "gender": "en",
+    "english": [
+      "author",
+      "writer"
+    ]
+  },
+  {
+    "danish": "journalist",
+    "gender": "en",
+    "english": [
+      "journalist"
+    ]
+  },
+  {
+    "danish": "sanger",
+    "gender": "en",
+    "english": [
+      "singer"
+    ]
+  },
+  {
+    "danish": "musiker",
+    "gender": "en",
+    "english": [
+      "musician"
+    ]
+  },
+  {
+    "danish": "skuespiller",
+    "gender": "en",
+    "english": [
+      "actor"
+    ]
+  },
+  {
+    "danish": "chauffør",
+    "gender": "en",
+    "english": [
+      "driver"
+    ]
+  },
+  {
+    "danish": "pilot",
+    "gender": "en",
+    "english": [
+      "pilot"
+    ]
+  },
+  {
+    "danish": "sælger",
+    "gender": "en",
+    "english": [
+      "salesperson",
+      "seller"
+    ]
+  },
+  {
+    "danish": "kunde",
+    "gender": "en",
+    "english": [
+      "customer"
+    ]
+  },
+  {
+    "danish": "ejer",
+    "gender": "en",
+    "english": [
+      "owner"
+    ]
+  },
+  {
+    "danish": "konge",
+    "gender": "en",
+    "english": [
+      "king"
+    ]
+  },
+  {
+    "danish": "dronning",
+    "gender": "en",
+    "english": [
+      "queen"
+    ]
+  },
+  {
+    "danish": "prins",
+    "gender": "en",
+    "english": [
+      "prince"
+    ]
+  },
+  {
+    "danish": "prinsesse",
+    "gender": "en",
+    "english": [
+      "princess"
+    ]
+  },
+  {
+    "danish": "præsident",
+    "gender": "en",
+    "english": [
+      "president"
+    ]
+  },
+  {
+    "danish": "minister",
+    "gender": "en",
+    "english": [
+      "minister"
+    ]
+  },
+  {
+    "danish": "politiker",
+    "gender": "en",
+    "english": [
+      "politician"
+    ]
+  },
+  {
+    "danish": "direktør",
+    "gender": "en",
+    "english": [
+      "director",
+      "CEO"
+    ]
+  },
+  {
+    "danish": "formand",
+    "gender": "en",
+    "english": [
+      "chairman"
+    ]
+  },
+  {
+    "danish": "medlem",
+    "gender": "et",
+    "english": [
+      "member"
+    ]
+  },
+  {
+    "danish": "træner",
+    "gender": "en",
+    "english": [
+      "coach",
+      "trainer"
+    ]
+  },
+  {
+    "danish": "spiller",
+    "gender": "en",
+    "english": [
+      "player"
+    ]
+  },
+  {
+    "danish": "vinder",
+    "gender": "en",
+    "english": [
+      "winner"
+    ]
+  },
+  {
+    "danish": "taber",
+    "gender": "en",
+    "english": [
+      "loser"
+    ]
+  },
+  {
+    "danish": "helt",
+    "gender": "en",
+    "english": [
+      "hero"
+    ]
+  },
+  {
+    "danish": "fjende",
+    "gender": "en",
+    "english": [
+      "enemy"
+    ]
+  },
+  {
+    "danish": "tyv",
+    "gender": "en",
+    "english": [
+      "thief"
+    ]
+  },
+  {
+    "danish": "offer",
+    "gender": "et",
+    "english": [
+      "victim",
+      "sacrifice"
+    ]
+  },
+  {
+    "danish": "vidne",
+    "gender": "et",
+    "english": [
+      "witness"
+    ]
+  },
+  {
+    "danish": "patient",
+    "gender": "en",
+    "english": [
+      "patient"
+    ]
+  },
+  {
+    "danish": "turist",
+    "gender": "en",
+    "english": [
+      "tourist"
+    ]
+  },
+  {
+    "danish": "udlænding",
+    "gender": "en",
+    "english": [
+      "foreigner"
+    ]
+  },
+  {
+    "danish": "indvandrer",
+    "gender": "en",
+    "english": [
+      "immigrant"
+    ]
+  },
+  {
+    "danish": "flygtning",
+    "gender": "en",
+    "english": [
+      "refugee"
+    ]
+  },
+  {
+    "danish": "frisør",
+    "gender": "en",
+    "english": [
+      "hairdresser"
+    ]
+  },
+  {
+    "danish": "postbud",
+    "gender": "et",
+    "english": [
+      "postman",
+      "mail carrier"
+    ]
+  },
+  {
+    "danish": "brandmand",
+    "gender": "en",
+    "english": [
+      "firefighter"
+    ]
+  },
+  {
+    "danish": "sekretær",
+    "gender": "en",
+    "english": [
+      "secretary"
+    ]
+  },
+  {
+    "danish": "arkitekt",
+    "gender": "en",
+    "english": [
+      "architect"
+    ]
+  },
+  {
+    "danish": "forsker",
+    "gender": "en",
+    "english": [
+      "researcher"
+    ]
+  },
+  {
+    "danish": "professor",
+    "gender": "en",
+    "english": [
+      "professor"
+    ]
+  },
+  {
+    "danish": "pædagog",
+    "gender": "en",
+    "english": [
+      "childcare worker",
+      "educator"
+    ]
+  },
+  {
+    "danish": "vagt",
+    "gender": "en",
+    "english": [
+      "guard",
+      "shift"
+    ]
+  },
+  {
+    "danish": "sømand",
+    "gender": "en",
+    "english": [
+      "sailor"
+    ]
+  },
+  {
+    "danish": "kaptajn",
+    "gender": "en",
+    "english": [
+      "captain"
+    ]
+  },
+  {
+    "danish": "engel",
+    "gender": "en",
+    "english": [
+      "angel"
+    ]
+  },
+  {
+    "danish": "spøgelse",
+    "gender": "et",
+    "english": [
+      "ghost"
+    ]
+  },
+  {
+    "danish": "drage",
+    "gender": "en",
+    "english": [
+      "dragon",
+      "kite"
+    ]
+  },
+  {
+    "danish": "tvilling",
+    "gender": "en",
+    "english": [
+      "twin"
+    ]
+  },
+  {
+    "danish": "enke",
+    "gender": "en",
+    "english": [
+      "widow"
+    ]
+  },
+  {
+    "danish": "svigermor",
+    "gender": "en",
+    "english": [
+      "mother-in-law"
+    ]
+  },
+  {
+    "danish": "bekendt",
+    "gender": "en",
+    "english": [
+      "acquaintance"
+    ]
+  },
+  {
+    "danish": "krop",
+    "gender": "en",
+    "english": [
+      "body"
+    ]
+  },
+  {
+    "danish": "hoved",
+    "gender": "et",
+    "english": [
+      "head"
+    ]
+  },
+  {
+    "danish": "ansigt",
+    "gender": "et",
+    "english": [
+      "face"
+    ]
+  },
+  {
+    "danish": "øje",
+    "gender": "et",
+    "english": [
+      "eye"
+    ]
+  },
+  {
+    "danish": "øre",
+    "gender": "et",
+    "english": [
+      "ear"
+    ]
+  },
+  {
+    "danish": "næse",
+    "gender": "en",
+    "english": [
+      "nose"
+    ]
+  },
+  {
+    "danish": "mund",
+    "gender": "en",
+    "english": [
+      "mouth"
+    ]
+  },
+  {
+    "danish": "læbe",
+    "gender": "en",
+    "english": [
+      "lip"
+    ]
+  },
+  {
+    "danish": "tand",
+    "gender": "en",
+    "english": [
+      "tooth"
+    ]
+  },
+  {
+    "danish": "tunge",
+    "gender": "en",
+    "english": [
+      "tongue"
+    ]
+  },
+  {
+    "danish": "hår",
+    "gender": "et",
+    "english": [
+      "hair"
+    ]
+  },
+  {
+    "danish": "skæg",
+    "gender": "et",
+    "english": [
+      "beard"
+    ]
+  },
+  {
+    "danish": "pande",
+    "gender": "en",
+    "english": [
+      "forehead",
+      "pan"
+    ]
+  },
+  {
+    "danish": "kind",
+    "gender": "en",
+    "english": [
+      "cheek"
+    ]
+  },
+  {
+    "danish": "hals",
+    "gender": "en",
+    "english": [
+      "neck",
+      "throat"
+    ]
+  },
+  {
+    "danish": "skulder",
+    "gender": "en",
+    "english": [
+      "shoulder"
+    ]
+  },
+  {
+    "danish": "arm",
+    "gender": "en",
+    "english": [
+      "arm"
+    ]
+  },
+  {
+    "danish": "albue",
+    "gender": "en",
+    "english": [
+      "elbow"
+    ]
+  },
+  {
+    "danish": "hånd",
+    "gender": "en",
+    "english": [
+      "hand"
+    ]
+  },
+  {
+    "danish": "finger",
+    "gender": "en",
+    "english": [
+      "finger"
+    ]
+  },
+  {
+    "danish": "tommelfinger",
+    "gender": "en",
+    "english": [
+      "thumb"
+    ]
+  },
+  {
+    "danish": "negl",
+    "gender": "en",
+    "english": [
+      "nail (finger/toe)"
+    ]
+  },
+  {
+    "danish": "bryst",
+    "gender": "et",
+    "english": [
+      "chest",
+      "breast"
+    ]
+  },
+  {
+    "danish": "mave",
+    "gender": "en",
+    "english": [
+      "stomach",
+      "belly"
+    ]
+  },
+  {
+    "danish": "ryg",
+    "gender": "en",
+    "english": [
+      "back"
+    ]
+  },
+  {
+    "danish": "hofte",
+    "gender": "en",
+    "english": [
+      "hip"
+    ]
+  },
+  {
+    "danish": "ben",
+    "gender": "et",
+    "english": [
+      "leg",
+      "bone"
+    ]
+  },
+  {
+    "danish": "knæ",
+    "gender": "et",
+    "english": [
+      "knee"
+    ]
+  },
+  {
+    "danish": "fod",
+    "gender": "en",
+    "english": [
+      "foot"
+    ]
+  },
+  {
+    "danish": "tå",
+    "gender": "en",
+    "english": [
+      "toe"
+    ]
+  },
+  {
+    "danish": "hud",
+    "gender": "en",
+    "english": [
+      "skin"
+    ]
+  },
+  {
+    "danish": "blod",
+    "gender": "et",
+    "english": [
+      "blood"
+    ]
+  },
+  {
+    "danish": "hjerte",
+    "gender": "et",
+    "english": [
+      "heart"
+    ]
+  },
+  {
+    "danish": "lunge",
+    "gender": "en",
+    "english": [
+      "lung"
+    ]
+  },
+  {
+    "danish": "hjerne",
+    "gender": "en",
+    "english": [
+      "brain"
+    ]
+  },
+  {
+    "danish": "muskel",
+    "gender": "en",
+    "english": [
+      "muscle"
+    ]
+  },
+  {
+    "danish": "knogle",
+    "gender": "en",
+    "english": [
+      "bone"
+    ]
+  },
+  {
+    "danish": "sved",
+    "gender": "en",
+    "english": [
+      "sweat"
+    ]
+  },
+  {
+    "danish": "tåre",
+    "gender": "en",
+    "english": [
+      "tear"
+    ]
+  },
+  {
+    "danish": "stemme",
+    "gender": "en",
+    "english": [
+      "voice",
+      "vote"
+    ]
+  },
+  {
+    "danish": "øjenbryn",
+    "gender": "et",
+    "english": [
+      "eyebrow"
+    ]
+  },
+  {
+    "danish": "lår",
+    "gender": "et",
+    "english": [
+      "thigh"
+    ]
+  },
+  {
+    "danish": "håndled",
+    "gender": "et",
+    "english": [
+      "wrist"
+    ]
+  },
+  {
+    "danish": "puls",
+    "gender": "en",
+    "english": [
+      "pulse"
+    ]
+  },
+  {
+    "danish": "ar",
+    "gender": "et",
+    "english": [
+      "scar"
+    ]
+  },
+  {
+    "danish": "tid",
+    "gender": "en",
+    "english": [
+      "time"
+    ]
+  },
+  {
+    "danish": "øjeblik",
+    "gender": "et",
+    "english": [
+      "moment"
+    ]
+  },
+  {
+    "danish": "sekund",
+    "gender": "et",
+    "english": [
+      "second"
+    ]
+  },
+  {
+    "danish": "minut",
+    "gender": "et",
+    "english": [
+      "minute"
+    ]
+  },
+  {
+    "danish": "time",
+    "gender": "en",
+    "english": [
+      "hour",
+      "lesson"
+    ]
+  },
+  {
+    "danish": "dag",
+    "gender": "en",
+    "english": [
+      "day"
+    ]
+  },
+  {
+    "danish": "nat",
+    "gender": "en",
+    "english": [
+      "night"
+    ]
+  },
+  {
+    "danish": "morgen",
+    "gender": "en",
+    "english": [
+      "morning"
+    ]
+  },
+  {
+    "danish": "middag",
+    "gender": "en",
+    "english": [
+      "noon",
+      "dinner"
+    ]
+  },
+  {
+    "danish": "eftermiddag",
+    "gender": "en",
+    "english": [
+      "afternoon"
+    ]
+  },
+  {
+    "danish": "aften",
+    "gender": "en",
+    "english": [
+      "evening"
+    ]
+  },
+  {
+    "danish": "uge",
+    "gender": "en",
+    "english": [
+      "week"
+    ]
+  },
+  {
+    "danish": "weekend",
+    "gender": "en",
+    "english": [
+      "weekend"
+    ]
+  },
+  {
+    "danish": "måned",
+    "gender": "en",
+    "english": [
+      "month"
+    ]
+  },
+  {
+    "danish": "år",
+    "gender": "et",
+    "english": [
+      "year"
+    ]
+  },
+  {
+    "danish": "århundrede",
+    "gender": "et",
+    "english": [
+      "century"
+    ]
+  },
+  {
+    "danish": "sæson",
+    "gender": "en",
+    "english": [
+      "season"
+    ]
+  },
+  {
+    "danish": "forår",
+    "gender": "et",
+    "english": [
+      "spring"
+    ]
+  },
+  {
+    "danish": "sommer",
+    "gender": "en",
+    "english": [
+      "summer"
+    ]
+  },
+  {
+    "danish": "efterår",
+    "gender": "et",
+    "english": [
+      "autumn",
+      "fall"
+    ]
+  },
+  {
+    "danish": "vinter",
+    "gender": "en",
+    "english": [
+      "winter"
+    ]
+  },
+  {
+    "danish": "mandag",
+    "gender": "en",
+    "english": [
+      "Monday"
+    ]
+  },
+  {
+    "danish": "tirsdag",
+    "gender": "en",
+    "english": [
+      "Tuesday"
+    ]
+  },
+  {
+    "danish": "onsdag",
+    "gender": "en",
+    "english": [
+      "Wednesday"
+    ]
+  },
+  {
+    "danish": "torsdag",
+    "gender": "en",
+    "english": [
+      "Thursday"
+    ]
+  },
+  {
+    "danish": "fredag",
+    "gender": "en",
+    "english": [
+      "Friday"
+    ]
+  },
+  {
+    "danish": "lørdag",
+    "gender": "en",
+    "english": [
+      "Saturday"
+    ]
+  },
+  {
+    "danish": "søndag",
+    "gender": "en",
+    "english": [
+      "Sunday"
+    ]
+  },
+  {
+    "danish": "fødselsdag",
+    "gender": "en",
+    "english": [
+      "birthday"
+    ]
+  },
+  {
+    "danish": "jul",
+    "gender": "en",
+    "english": [
+      "Christmas"
+    ]
+  },
+  {
+    "danish": "påske",
+    "gender": "en",
+    "english": [
+      "Easter"
+    ]
+  },
+  {
+    "danish": "ferie",
+    "gender": "en",
+    "english": [
+      "holiday",
+      "vacation"
+    ]
+  },
+  {
+    "danish": "fremtid",
+    "gender": "en",
+    "english": [
+      "future"
+    ]
+  },
+  {
+    "danish": "historie",
+    "gender": "en",
+    "english": [
+      "history",
+      "story"
+    ]
+  },
+  {
+    "danish": "begyndelse",
+    "gender": "en",
+    "english": [
+      "beginning"
+    ]
+  },
+  {
+    "danish": "slutning",
+    "gender": "en",
+    "english": [
+      "end",
+      "ending"
+    ]
+  },
+  {
+    "danish": "ende",
+    "gender": "en",
+    "english": [
+      "end"
+    ]
+  },
+  {
+    "danish": "start",
+    "gender": "en",
+    "english": [
+      "start"
+    ]
+  },
+  {
+    "danish": "dato",
+    "gender": "en",
+    "english": [
+      "date"
+    ]
+  },
+  {
+    "danish": "kalender",
+    "gender": "en",
+    "english": [
+      "calendar"
+    ]
+  },
+  {
+    "danish": "ur",
+    "gender": "et",
+    "english": [
+      "clock",
+      "watch"
+    ]
+  },
+  {
+    "danish": "alder",
+    "gender": "en",
+    "english": [
+      "age"
+    ]
+  },
+  {
+    "danish": "barndom",
+    "gender": "en",
+    "english": [
+      "childhood"
+    ]
+  },
+  {
+    "danish": "ungdom",
+    "gender": "en",
+    "english": [
+      "youth"
+    ]
+  },
+  {
+    "danish": "liv",
+    "gender": "et",
+    "english": [
+      "life"
+    ]
+  },
+  {
+    "danish": "død",
+    "gender": "en",
+    "english": [
+      "death"
+    ]
+  },
+  {
+    "danish": "fødsel",
+    "gender": "en",
+    "english": [
+      "birth"
+    ]
+  },
+  {
+    "danish": "døgn",
+    "gender": "et",
+    "english": [
+      "day (24 hours)"
+    ]
+  },
+  {
+    "danish": "tidspunkt",
+    "gender": "et",
+    "english": [
+      "point in time"
+    ]
+  },
+  {
+    "danish": "midnat",
+    "gender": "en",
+    "english": [
+      "midnight"
+    ]
+  },
+  {
+    "danish": "nytår",
+    "gender": "et",
+    "english": [
+      "New Year"
+    ]
+  },
+  {
+    "danish": "tidsplan",
+    "gender": "en",
+    "english": [
+      "schedule",
+      "timetable"
+    ]
+  },
+  {
+    "danish": "hus",
+    "gender": "et",
+    "english": [
+      "house"
+    ]
+  },
+  {
+    "danish": "hjem",
+    "gender": "et",
+    "english": [
+      "home"
+    ]
+  },
+  {
+    "danish": "lejlighed",
+    "gender": "en",
+    "english": [
+      "apartment",
+      "flat",
+      "opportunity"
+    ]
+  },
+  {
+    "danish": "værelse",
+    "gender": "et",
+    "english": [
+      "room"
+    ]
+  },
+  {
+    "danish": "rum",
+    "gender": "et",
+    "english": [
+      "room",
+      "space"
+    ]
+  },
+  {
+    "danish": "stue",
+    "gender": "en",
+    "english": [
+      "living room"
+    ]
+  },
+  {
+    "danish": "køkken",
+    "gender": "et",
+    "english": [
+      "kitchen"
+    ]
+  },
+  {
+    "danish": "soveværelse",
+    "gender": "et",
+    "english": [
+      "bedroom"
+    ]
+  },
+  {
+    "danish": "badeværelse",
+    "gender": "et",
+    "english": [
+      "bathroom"
+    ]
+  },
+  {
+    "danish": "toilet",
+    "gender": "et",
+    "english": [
+      "toilet"
+    ]
+  },
+  {
+    "danish": "gang",
+    "gender": "en",
+    "english": [
+      "hallway",
+      "corridor",
+      "time (occasion)"
+    ]
+  },
+  {
+    "danish": "kælder",
+    "gender": "en",
+    "english": [
+      "basement",
+      "cellar"
+    ]
+  },
+  {
+    "danish": "loft",
+    "gender": "et",
+    "english": [
+      "ceiling",
+      "attic"
+    ]
+  },
+  {
+    "danish": "tag",
+    "gender": "et",
+    "english": [
+      "roof"
+    ]
+  },
+  {
+    "danish": "væg",
+    "gender": "en",
+    "english": [
+      "wall"
+    ]
+  },
+  {
+    "danish": "mur",
+    "gender": "en",
+    "english": [
+      "wall (masonry)"
+    ]
+  },
+  {
+    "danish": "gulv",
+    "gender": "et",
+    "english": [
+      "floor"
+    ]
+  },
+  {
+    "danish": "dør",
+    "gender": "en",
+    "english": [
+      "door"
+    ]
+  },
+  {
+    "danish": "vindue",
+    "gender": "et",
+    "english": [
+      "window"
+    ]
+  },
+  {
+    "danish": "trappe",
+    "gender": "en",
+    "english": [
+      "staircase",
+      "stairs"
+    ]
+  },
+  {
+    "danish": "etage",
+    "gender": "en",
+    "english": [
+      "floor",
+      "storey"
+    ]
+  },
+  {
+    "danish": "have",
+    "gender": "en",
+    "english": [
+      "garden"
+    ]
+  },
+  {
+    "danish": "gård",
+    "gender": "en",
+    "english": [
+      "farm",
+      "courtyard"
+    ]
+  },
+  {
+    "danish": "garage",
+    "gender": "en",
+    "english": [
+      "garage"
+    ]
+  },
+  {
+    "danish": "port",
+    "gender": "en",
+    "english": [
+      "gate"
+    ]
+  },
+  {
+    "danish": "nøgle",
+    "gender": "en",
+    "english": [
+      "key"
+    ]
+  },
+  {
+    "danish": "lås",
+    "gender": "en",
+    "english": [
+      "lock"
+    ]
+  },
+  {
+    "danish": "møbel",
+    "gender": "et",
+    "english": [
+      "piece of furniture"
+    ]
+  },
+  {
+    "danish": "bord",
+    "gender": "et",
+    "english": [
+      "table"
+    ]
+  },
+  {
+    "danish": "stol",
+    "gender": "en",
+    "english": [
+      "chair"
+    ]
+  },
+  {
+    "danish": "sofa",
+    "gender": "en",
+    "english": [
+      "sofa"
+    ]
+  },
+  {
+    "danish": "seng",
+    "gender": "en",
+    "english": [
+      "bed"
+    ]
+  },
+  {
+    "danish": "skab",
+    "gender": "et",
+    "english": [
+      "cupboard",
+      "closet"
+    ]
+  },
+  {
+    "danish": "hylde",
+    "gender": "en",
+    "english": [
+      "shelf"
+    ]
+  },
+  {
+    "danish": "skuffe",
+    "gender": "en",
+    "english": [
+      "drawer"
+    ]
+  },
+  {
+    "danish": "lampe",
+    "gender": "en",
+    "english": [
+      "lamp"
+    ]
+  },
+  {
+    "danish": "lys",
+    "gender": "et",
+    "english": [
+      "light",
+      "candle"
+    ]
+  },
+  {
+    "danish": "pære",
+    "gender": "en",
+    "english": [
+      "pear",
+      "light bulb"
+    ]
+  },
+  {
+    "danish": "spejl",
+    "gender": "et",
+    "english": [
+      "mirror"
+    ]
+  },
+  {
+    "danish": "billede",
+    "gender": "et",
+    "english": [
+      "picture",
+      "image"
+    ]
+  },
+  {
+    "danish": "maleri",
+    "gender": "et",
+    "english": [
+      "painting"
+    ]
+  },
+  {
+    "danish": "gardin",
+    "gender": "et",
+    "english": [
+      "curtain"
+    ]
+  },
+  {
+    "danish": "tæppe",
+    "gender": "et",
+    "english": [
+      "carpet",
+      "rug",
+      "blanket"
+    ]
+  },
+  {
+    "danish": "pude",
+    "gender": "en",
+    "english": [
+      "pillow",
+      "cushion"
+    ]
+  },
+  {
+    "danish": "håndklæde",
+    "gender": "et",
+    "english": [
+      "towel"
+    ]
+  },
+  {
+    "danish": "sæbe",
+    "gender": "en",
+    "english": [
+      "soap"
+    ]
+  },
+  {
+    "danish": "tandbørste",
+    "gender": "en",
+    "english": [
+      "toothbrush"
+    ]
+  },
+  {
+    "danish": "børste",
+    "gender": "en",
+    "english": [
+      "brush"
+    ]
+  },
+  {
+    "danish": "vask",
+    "gender": "en",
+    "english": [
+      "sink",
+      "laundry"
+    ]
+  },
+  {
+    "danish": "bad",
+    "gender": "et",
+    "english": [
+      "bath"
+    ]
+  },
+  {
+    "danish": "ovn",
+    "gender": "en",
+    "english": [
+      "oven"
+    ]
+  },
+  {
+    "danish": "køleskab",
+    "gender": "et",
+    "english": [
+      "refrigerator",
+      "fridge"
+    ]
+  },
+  {
+    "danish": "fryser",
+    "gender": "en",
+    "english": [
+      "freezer"
+    ]
+  },
+  {
+    "danish": "opvaskemaskine",
+    "gender": "en",
+    "english": [
+      "dishwasher"
+    ]
+  },
+  {
+    "danish": "vaskemaskine",
+    "gender": "en",
+    "english": [
+      "washing machine"
+    ]
+  },
+  {
+    "danish": "støvsuger",
+    "gender": "en",
+    "english": [
+      "vacuum cleaner"
+    ]
+  },
+  {
+    "danish": "kontakt",
+    "gender": "en",
+    "english": [
+      "switch",
+      "contact"
+    ]
+  },
+  {
+    "danish": "ledning",
+    "gender": "en",
+    "english": [
+      "cord",
+      "wire",
+      "cable"
+    ]
+  },
+  {
+    "danish": "tallerken",
+    "gender": "en",
+    "english": [
+      "plate"
+    ]
+  },
+  {
+    "danish": "skål",
+    "gender": "en",
+    "english": [
+      "bowl",
+      "toast (drink)"
+    ]
+  },
+  {
+    "danish": "kop",
+    "gender": "en",
+    "english": [
+      "cup"
+    ]
+  },
+  {
+    "danish": "glas",
+    "gender": "et",
+    "english": [
+      "glass"
+    ]
+  },
+  {
+    "danish": "flaske",
+    "gender": "en",
+    "english": [
+      "bottle"
+    ]
+  },
+  {
+    "danish": "gryde",
+    "gender": "en",
+    "english": [
+      "pot",
+      "saucepan"
+    ]
+  },
+  {
+    "danish": "kniv",
+    "gender": "en",
+    "english": [
+      "knife"
+    ]
+  },
+  {
+    "danish": "gaffel",
+    "gender": "en",
+    "english": [
+      "fork"
+    ]
+  },
+  {
+    "danish": "ske",
+    "gender": "en",
+    "english": [
+      "spoon"
+    ]
+  },
+  {
+    "danish": "kasse",
+    "gender": "en",
+    "english": [
+      "box",
+      "crate",
+      "checkout"
+    ]
+  },
+  {
+    "danish": "pose",
+    "gender": "en",
+    "english": [
+      "bag"
+    ]
+  },
+  {
+    "danish": "taske",
+    "gender": "en",
+    "english": [
+      "bag",
+      "handbag"
+    ]
+  },
+  {
+    "danish": "skraldespand",
+    "gender": "en",
+    "english": [
+      "rubbish bin",
+      "trash can"
+    ]
+  },
+  {
+    "danish": "affald",
+    "gender": "et",
+    "english": [
+      "waste",
+      "rubbish",
+      "garbage"
+    ]
+  },
+  {
+    "danish": "postkasse",
+    "gender": "en",
+    "english": [
+      "letterbox",
+      "mailbox"
+    ]
+  },
+  {
+    "danish": "vandhane",
+    "gender": "en",
+    "english": [
+      "tap",
+      "faucet"
+    ]
+  },
+  {
+    "danish": "rør",
+    "gender": "et",
+    "english": [
+      "pipe",
+      "tube"
+    ]
+  },
+  {
+    "danish": "elevator",
+    "gender": "en",
+    "english": [
+      "lift",
+      "elevator"
+    ]
+  },
+  {
+    "danish": "kost",
+    "gender": "en",
+    "english": [
+      "broom",
+      "diet"
+    ]
+  },
+  {
+    "danish": "telt",
+    "gender": "et",
+    "english": [
+      "tent"
+    ]
+  },
+  {
+    "danish": "rygsæk",
+    "gender": "en",
+    "english": [
+      "backpack",
+      "rucksack"
+    ]
+  },
+  {
+    "danish": "vase",
+    "gender": "en",
+    "english": [
+      "vase"
+    ]
+  },
+  {
+    "danish": "mad",
+    "gender": "en",
+    "english": [
+      "food"
+    ]
+  },
+  {
+    "danish": "måltid",
+    "gender": "et",
+    "english": [
+      "meal"
+    ]
+  },
+  {
+    "danish": "morgenmad",
+    "gender": "en",
+    "english": [
+      "breakfast"
+    ]
+  },
+  {
+    "danish": "frokost",
+    "gender": "en",
+    "english": [
+      "lunch"
+    ]
+  },
+  {
+    "danish": "aftensmad",
+    "gender": "en",
+    "english": [
+      "dinner",
+      "supper"
+    ]
+  },
+  {
+    "danish": "brød",
+    "gender": "et",
+    "english": [
+      "bread"
+    ]
+  },
+  {
+    "danish": "rugbrød",
+    "gender": "et",
+    "english": [
+      "rye bread"
+    ]
+  },
+  {
+    "danish": "bolle",
+    "gender": "en",
+    "english": [
+      "bun",
+      "roll"
+    ]
+  },
+  {
+    "danish": "kage",
+    "gender": "en",
+    "english": [
+      "cake"
+    ]
+  },
+  {
+    "danish": "smør",
+    "gender": "et",
+    "english": [
+      "butter"
+    ]
+  },
+  {
+    "danish": "ost",
+    "gender": "en",
+    "english": [
+      "cheese"
+    ]
+  },
+  {
+    "danish": "mælk",
+    "gender": "en",
+    "english": [
+      "milk"
+    ]
+  },
+  {
+    "danish": "fløde",
+    "gender": "en",
+    "english": [
+      "cream"
+    ]
+  },
+  {
+    "danish": "yoghurt",
+    "gender": "en",
+    "english": [
+      "yoghurt"
+    ]
+  },
+  {
+    "danish": "æg",
+    "gender": "et",
+    "english": [
+      "egg"
+    ]
+  },
+  {
+    "danish": "kød",
+    "gender": "et",
+    "english": [
+      "meat"
+    ]
+  },
+  {
+    "danish": "oksekød",
+    "gender": "et",
+    "english": [
+      "beef"
+    ]
+  },
+  {
+    "danish": "svinekød",
+    "gender": "et",
+    "english": [
+      "pork"
+    ]
+  },
+  {
+    "danish": "kylling",
+    "gender": "en",
+    "english": [
+      "chicken"
+    ]
+  },
+  {
+    "danish": "fisk",
+    "gender": "en",
+    "english": [
+      "fish"
+    ]
+  },
+  {
+    "danish": "laks",
+    "gender": "en",
+    "english": [
+      "salmon"
+    ]
+  },
+  {
+    "danish": "pølse",
+    "gender": "en",
+    "english": [
+      "sausage"
+    ]
+  },
+  {
+    "danish": "frikadelle",
+    "gender": "en",
+    "english": [
+      "meatball"
+    ]
+  },
+  {
+    "danish": "suppe",
+    "gender": "en",
+    "english": [
+      "soup"
+    ]
+  },
+  {
+    "danish": "sovs",
+    "gender": "en",
+    "english": [
+      "sauce",
+      "gravy"
+    ]
+  },
+  {
+    "danish": "salat",
+    "gender": "en",
+    "english": [
+      "salad",
+      "lettuce"
+    ]
+  },
+  {
+    "danish": "grøntsag",
+    "gender": "en",
+    "english": [
+      "vegetable"
+    ]
+  },
+  {
+    "danish": "kartoffel",
+    "gender": "en",
+    "english": [
+      "potato"
+    ]
+  },
+  {
+    "danish": "gulerod",
+    "gender": "en",
+    "english": [
+      "carrot"
+    ]
+  },
+  {
+    "danish": "løg",
+    "gender": "et",
+    "english": [
+      "onion"
+    ]
+  },
+  {
+    "danish": "hvidløg",
+    "gender": "et",
+    "english": [
+      "garlic"
+    ]
+  },
+  {
+    "danish": "tomat",
+    "gender": "en",
+    "english": [
+      "tomato"
+    ]
+  },
+  {
+    "danish": "agurk",
+    "gender": "en",
+    "english": [
+      "cucumber"
+    ]
+  },
+  {
+    "danish": "frugt",
+    "gender": "en",
+    "english": [
+      "fruit"
+    ]
+  },
+  {
+    "danish": "æble",
+    "gender": "et",
+    "english": [
+      "apple"
+    ]
+  },
+  {
+    "danish": "banan",
+    "gender": "en",
+    "english": [
+      "banana"
+    ]
+  },
+  {
+    "danish": "appelsin",
+    "gender": "en",
+    "english": [
+      "orange"
+    ]
+  },
+  {
+    "danish": "citron",
+    "gender": "en",
+    "english": [
+      "lemon"
+    ]
+  },
+  {
+    "danish": "jordbær",
+    "gender": "et",
+    "english": [
+      "strawberry"
+    ]
+  },
+  {
+    "danish": "bær",
+    "gender": "et",
+    "english": [
+      "berry"
+    ]
+  },
+  {
+    "danish": "nød",
+    "gender": "en",
+    "english": [
+      "nut"
+    ]
+  },
+  {
+    "danish": "ris",
+    "gender": "en",
+    "english": [
+      "rice"
+    ]
+  },
+  {
+    "danish": "pasta",
+    "gender": "en",
+    "english": [
+      "pasta"
+    ]
+  },
+  {
+    "danish": "mel",
+    "gender": "et",
+    "english": [
+      "flour"
+    ]
+  },
+  {
+    "danish": "sukker",
+    "gender": "et",
+    "english": [
+      "sugar"
+    ]
+  },
+  {
+    "danish": "salt",
+    "gender": "et",
+    "english": [
+      "salt"
+    ]
+  },
+  {
+    "danish": "krydderi",
+    "gender": "et",
+    "english": [
+      "spice"
+    ]
+  },
+  {
+    "danish": "honning",
+    "gender": "en",
+    "english": [
+      "honey"
+    ]
+  },
+  {
+    "danish": "chokolade",
+    "gender": "en",
+    "english": [
+      "chocolate"
+    ]
+  },
+  {
+    "danish": "slik",
+    "gender": "et",
+    "english": [
+      "sweets",
+      "candy"
+    ]
+  },
+  {
+    "danish": "is",
+    "gender": "en",
+    "english": [
+      "ice",
+      "ice cream"
+    ]
+  },
+  {
+    "danish": "vand",
+    "gender": "et",
+    "english": [
+      "water"
+    ]
+  },
+  {
+    "danish": "kaffe",
+    "gender": "en",
+    "english": [
+      "coffee"
+    ]
+  },
+  {
+    "danish": "te",
+    "gender": "en",
+    "english": [
+      "tea"
+    ]
+  },
+  {
+    "danish": "juice",
+    "gender": "en",
+    "english": [
+      "juice"
+    ]
+  },
+  {
+    "danish": "vin",
+    "gender": "en",
+    "english": [
+      "wine"
+    ]
+  },
+  {
+    "danish": "sult",
+    "gender": "en",
+    "english": [
+      "hunger"
+    ]
+  },
+  {
+    "danish": "tørst",
+    "gender": "en",
+    "english": [
+      "thirst"
+    ]
+  },
+  {
+    "danish": "smag",
+    "gender": "en",
+    "english": [
+      "taste",
+      "flavour"
+    ]
+  },
+  {
+    "danish": "opskrift",
+    "gender": "en",
+    "english": [
+      "recipe"
+    ]
+  },
+  {
+    "danish": "restaurant",
+    "gender": "en",
+    "english": [
+      "restaurant"
+    ]
+  },
+  {
+    "danish": "café",
+    "gender": "en",
+    "english": [
+      "café"
+    ]
+  },
+  {
+    "danish": "bar",
+    "gender": "en",
+    "english": [
+      "bar"
+    ]
+  },
+  {
+    "danish": "regning",
+    "gender": "en",
+    "english": [
+      "bill",
+      "check"
+    ]
+  },
+  {
+    "danish": "menu",
+    "gender": "en",
+    "english": [
+      "menu"
+    ]
+  },
+  {
+    "danish": "pandekage",
+    "gender": "en",
+    "english": [
+      "pancake"
+    ]
+  },
+  {
+    "danish": "olie",
+    "gender": "en",
+    "english": [
+      "oil"
+    ]
+  },
+  {
+    "danish": "sandwich",
+    "gender": "en",
+    "english": [
+      "sandwich"
+    ]
+  },
+  {
+    "danish": "pizza",
+    "gender": "en",
+    "english": [
+      "pizza"
+    ]
+  },
+  {
+    "danish": "burger",
+    "gender": "en",
+    "english": [
+      "burger"
+    ]
+  },
+  {
+    "danish": "dessert",
+    "gender": "en",
+    "english": [
+      "dessert"
+    ]
+  },
+  {
+    "danish": "melon",
+    "gender": "en",
+    "english": [
+      "melon"
+    ]
+  },
+  {
+    "danish": "tøj",
+    "gender": "et",
+    "english": [
+      "clothes",
+      "clothing"
+    ]
+  },
+  {
+    "danish": "skjorte",
+    "gender": "en",
+    "english": [
+      "shirt"
+    ]
+  },
+  {
+    "danish": "trøje",
+    "gender": "en",
+    "english": [
+      "sweater",
+      "top"
+    ]
+  },
+  {
+    "danish": "sweater",
+    "gender": "en",
+    "english": [
+      "sweater",
+      "jumper"
+    ]
+  },
+  {
+    "danish": "t-shirt",
+    "gender": "en",
+    "english": [
+      "T-shirt"
+    ]
+  },
+  {
+    "danish": "nederdel",
+    "gender": "en",
+    "english": [
+      "skirt"
+    ]
+  },
+  {
+    "danish": "kjole",
+    "gender": "en",
+    "english": [
+      "dress"
+    ]
+  },
+  {
+    "danish": "jakke",
+    "gender": "en",
+    "english": [
+      "jacket"
+    ]
+  },
+  {
+    "danish": "frakke",
+    "gender": "en",
+    "english": [
+      "coat"
+    ]
+  },
+  {
+    "danish": "jakkesæt",
+    "gender": "et",
+    "english": [
+      "suit"
+    ]
+  },
+  {
+    "danish": "bælte",
+    "gender": "et",
+    "english": [
+      "belt"
+    ]
+  },
+  {
+    "danish": "sko",
+    "gender": "en",
+    "english": [
+      "shoe"
+    ]
+  },
+  {
+    "danish": "støvle",
+    "gender": "en",
+    "english": [
+      "boot"
+    ]
+  },
+  {
+    "danish": "sok",
+    "gender": "en",
+    "english": [
+      "sock"
+    ]
+  },
+  {
+    "danish": "hat",
+    "gender": "en",
+    "english": [
+      "hat"
+    ]
+  },
+  {
+    "danish": "handske",
+    "gender": "en",
+    "english": [
+      "glove"
+    ]
+  },
+  {
+    "danish": "halstørklæde",
+    "gender": "et",
+    "english": [
+      "scarf"
+    ]
+  },
+  {
+    "danish": "lomme",
+    "gender": "en",
+    "english": [
+      "pocket"
+    ]
+  },
+  {
+    "danish": "knap",
+    "gender": "en",
+    "english": [
+      "button"
+    ]
+  },
+  {
+    "danish": "paraply",
+    "gender": "en",
+    "english": [
+      "umbrella"
+    ]
+  },
+  {
+    "danish": "pung",
+    "gender": "en",
+    "english": [
+      "purse",
+      "wallet"
+    ]
+  },
+  {
+    "danish": "ring",
+    "gender": "en",
+    "english": [
+      "ring"
+    ]
+  },
+  {
+    "danish": "natur",
+    "gender": "en",
+    "english": [
+      "nature"
+    ]
+  },
+  {
+    "danish": "verden",
+    "gender": "en",
+    "english": [
+      "world"
+    ]
+  },
+  {
+    "danish": "jord",
+    "gender": "en",
+    "english": [
+      "earth",
+      "soil",
+      "ground"
+    ]
+  },
+  {
+    "danish": "himmel",
+    "gender": "en",
+    "english": [
+      "sky",
+      "heaven"
+    ]
+  },
+  {
+    "danish": "sol",
+    "gender": "en",
+    "english": [
+      "sun"
+    ]
+  },
+  {
+    "danish": "måne",
+    "gender": "en",
+    "english": [
+      "moon"
+    ]
+  },
+  {
+    "danish": "stjerne",
+    "gender": "en",
+    "english": [
+      "star"
+    ]
+  },
+  {
+    "danish": "planet",
+    "gender": "en",
+    "english": [
+      "planet"
+    ]
+  },
+  {
+    "danish": "univers",
+    "gender": "et",
+    "english": [
+      "universe"
+    ]
+  },
+  {
+    "danish": "luft",
+    "gender": "en",
+    "english": [
+      "air"
+    ]
+  },
+  {
+    "danish": "vind",
+    "gender": "en",
+    "english": [
+      "wind"
+    ]
+  },
+  {
+    "danish": "vejr",
+    "gender": "et",
+    "english": [
+      "weather"
+    ]
+  },
+  {
+    "danish": "regn",
+    "gender": "en",
+    "english": [
+      "rain"
+    ]
+  },
+  {
+    "danish": "sne",
+    "gender": "en",
+    "english": [
+      "snow"
+    ]
+  },
+  {
+    "danish": "storm",
+    "gender": "en",
+    "english": [
+      "storm"
+    ]
+  },
+  {
+    "danish": "lyn",
+    "gender": "et",
+    "english": [
+      "lightning"
+    ]
+  },
+  {
+    "danish": "sky",
+    "gender": "en",
+    "english": [
+      "cloud"
+    ]
+  },
+  {
+    "danish": "tåge",
+    "gender": "en",
+    "english": [
+      "fog",
+      "mist"
+    ]
+  },
+  {
+    "danish": "frost",
+    "gender": "en",
+    "english": [
+      "frost"
+    ]
+  },
+  {
+    "danish": "temperatur",
+    "gender": "en",
+    "english": [
+      "temperature"
+    ]
+  },
+  {
+    "danish": "klima",
+    "gender": "et",
+    "english": [
+      "climate"
+    ]
+  },
+  {
+    "danish": "hav",
+    "gender": "et",
+    "english": [
+      "sea",
+      "ocean"
+    ]
+  },
+  {
+    "danish": "sø",
+    "gender": "en",
+    "english": [
+      "lake"
+    ]
+  },
+  {
+    "danish": "flod",
+    "gender": "en",
+    "english": [
+      "river"
+    ]
+  },
+  {
+    "danish": "strand",
+    "gender": "en",
+    "english": [
+      "beach"
+    ]
+  },
+  {
+    "danish": "kyst",
+    "gender": "en",
+    "english": [
+      "coast"
+    ]
+  },
+  {
+    "danish": "ø",
+    "gender": "en",
+    "english": [
+      "island"
+    ]
+  },
+  {
+    "danish": "bølge",
+    "gender": "en",
+    "english": [
+      "wave"
+    ]
+  },
+  {
+    "danish": "bjerg",
+    "gender": "et",
+    "english": [
+      "mountain"
+    ]
+  },
+  {
+    "danish": "bakke",
+    "gender": "en",
+    "english": [
+      "hill",
+      "tray"
+    ]
+  },
+  {
+    "danish": "dal",
+    "gender": "en",
+    "english": [
+      "valley"
+    ]
+  },
+  {
+    "danish": "skov",
+    "gender": "en",
+    "english": [
+      "forest",
+      "wood"
+    ]
+  },
+  {
+    "danish": "mark",
+    "gender": "en",
+    "english": [
+      "field"
+    ]
+  },
+  {
+    "danish": "eng",
+    "gender": "en",
+    "english": [
+      "meadow"
+    ]
+  },
+  {
+    "danish": "ørken",
+    "gender": "en",
+    "english": [
+      "desert"
+    ]
+  },
+  {
+    "danish": "sten",
+    "gender": "en",
+    "english": [
+      "stone",
+      "rock"
+    ]
+  },
+  {
+    "danish": "sand",
+    "gender": "et",
+    "english": [
+      "sand"
+    ]
+  },
+  {
+    "danish": "græs",
+    "gender": "et",
+    "english": [
+      "grass"
+    ]
+  },
+  {
+    "danish": "træ",
+    "gender": "et",
+    "english": [
+      "tree",
+      "wood"
+    ]
+  },
+  {
+    "danish": "blomst",
+    "gender": "en",
+    "english": [
+      "flower"
+    ]
+  },
+  {
+    "danish": "rose",
+    "gender": "en",
+    "english": [
+      "rose"
+    ]
+  },
+  {
+    "danish": "blad",
+    "gender": "et",
+    "english": [
+      "leaf",
+      "magazine"
+    ]
+  },
+  {
+    "danish": "gren",
+    "gender": "en",
+    "english": [
+      "branch"
+    ]
+  },
+  {
+    "danish": "rod",
+    "gender": "en",
+    "english": [
+      "root",
+      "mess"
+    ]
+  },
+  {
+    "danish": "frø",
+    "gender": "et",
+    "english": [
+      "seed"
+    ]
+  },
+  {
+    "danish": "plante",
+    "gender": "en",
+    "english": [
+      "plant"
+    ]
+  },
+  {
+    "danish": "ild",
+    "gender": "en",
+    "english": [
+      "fire"
+    ]
+  },
+  {
+    "danish": "brand",
+    "gender": "en",
+    "english": [
+      "fire (blaze)"
+    ]
+  },
+  {
+    "danish": "røg",
+    "gender": "en",
+    "english": [
+      "smoke"
+    ]
+  },
+  {
+    "danish": "landskab",
+    "gender": "et",
+    "english": [
+      "landscape"
+    ]
+  },
+  {
+    "danish": "udsigt",
+    "gender": "en",
+    "english": [
+      "view"
+    ]
+  },
+  {
+    "danish": "solnedgang",
+    "gender": "en",
+    "english": [
+      "sunset"
+    ]
+  },
+  {
+    "danish": "solopgang",
+    "gender": "en",
+    "english": [
+      "sunrise"
+    ]
+  },
+  {
+    "danish": "oversvømmelse",
+    "gender": "en",
+    "english": [
+      "flood"
+    ]
+  },
+  {
+    "danish": "korn",
+    "gender": "et",
+    "english": [
+      "grain",
+      "corn"
+    ]
+  },
+  {
+    "danish": "høst",
+    "gender": "en",
+    "english": [
+      "harvest",
+      "autumn"
+    ]
+  },
+  {
+    "danish": "dyr",
+    "gender": "et",
+    "english": [
+      "animal"
+    ]
+  },
+  {
+    "danish": "hund",
+    "gender": "en",
+    "english": [
+      "dog"
+    ]
+  },
+  {
+    "danish": "kat",
+    "gender": "en",
+    "english": [
+      "cat"
+    ]
+  },
+  {
+    "danish": "hest",
+    "gender": "en",
+    "english": [
+      "horse"
+    ]
+  },
+  {
+    "danish": "ko",
+    "gender": "en",
+    "english": [
+      "cow"
+    ]
+  },
+  {
+    "danish": "gris",
+    "gender": "en",
+    "english": [
+      "pig"
+    ]
+  },
+  {
+    "danish": "får",
+    "gender": "et",
+    "english": [
+      "sheep"
+    ]
+  },
+  {
+    "danish": "ged",
+    "gender": "en",
+    "english": [
+      "goat"
+    ]
+  },
+  {
+    "danish": "and",
+    "gender": "en",
+    "english": [
+      "duck"
+    ]
+  },
+  {
+    "danish": "fugl",
+    "gender": "en",
+    "english": [
+      "bird"
+    ]
+  },
+  {
+    "danish": "due",
+    "gender": "en",
+    "english": [
+      "pigeon",
+      "dove"
+    ]
+  },
+  {
+    "danish": "mus",
+    "gender": "en",
+    "english": [
+      "mouse"
+    ]
+  },
+  {
+    "danish": "kanin",
+    "gender": "en",
+    "english": [
+      "rabbit"
+    ]
+  },
+  {
+    "danish": "ræv",
+    "gender": "en",
+    "english": [
+      "fox"
+    ]
+  },
+  {
+    "danish": "ulv",
+    "gender": "en",
+    "english": [
+      "wolf"
+    ]
+  },
+  {
+    "danish": "bjørn",
+    "gender": "en",
+    "english": [
+      "bear"
+    ]
+  },
+  {
+    "danish": "løve",
+    "gender": "en",
+    "english": [
+      "lion"
+    ]
+  },
+  {
+    "danish": "tiger",
+    "gender": "en",
+    "english": [
+      "tiger"
+    ]
+  },
+  {
+    "danish": "elefant",
+    "gender": "en",
+    "english": [
+      "elephant"
+    ]
+  },
+  {
+    "danish": "abe",
+    "gender": "en",
+    "english": [
+      "monkey",
+      "ape"
+    ]
+  },
+  {
+    "danish": "slange",
+    "gender": "en",
+    "english": [
+      "snake",
+      "hose"
+    ]
+  },
+  {
+    "danish": "hval",
+    "gender": "en",
+    "english": [
+      "whale"
+    ]
+  },
+  {
+    "danish": "insekt",
+    "gender": "et",
+    "english": [
+      "insect"
+    ]
+  },
+  {
+    "danish": "flue",
+    "gender": "en",
+    "english": [
+      "fly"
+    ]
+  },
+  {
+    "danish": "bi",
+    "gender": "en",
+    "english": [
+      "bee"
+    ]
+  },
+  {
+    "danish": "edderkop",
+    "gender": "en",
+    "english": [
+      "spider"
+    ]
+  },
+  {
+    "danish": "sommerfugl",
+    "gender": "en",
+    "english": [
+      "butterfly"
+    ]
+  },
+  {
+    "danish": "vinge",
+    "gender": "en",
+    "english": [
+      "wing"
+    ]
+  },
+  {
+    "danish": "fjer",
+    "gender": "en",
+    "english": [
+      "feather",
+      "spring (coil)"
+    ]
+  },
+  {
+    "danish": "hale",
+    "gender": "en",
+    "english": [
+      "tail"
+    ]
+  },
+  {
+    "danish": "lam",
+    "gender": "et",
+    "english": [
+      "lamb"
+    ]
+  },
+  {
+    "danish": "land",
+    "gender": "et",
+    "english": [
+      "country",
+      "land"
+    ]
+  },
+  {
+    "danish": "by",
+    "gender": "en",
+    "english": [
+      "town",
+      "city"
+    ]
+  },
+  {
+    "danish": "landsby",
+    "gender": "en",
+    "english": [
+      "village"
+    ]
+  },
+  {
+    "danish": "hovedstad",
+    "gender": "en",
+    "english": [
+      "capital"
+    ]
+  },
+  {
+    "danish": "område",
+    "gender": "et",
+    "english": [
+      "area",
+      "region"
+    ]
+  },
+  {
+    "danish": "region",
+    "gender": "en",
+    "english": [
+      "region"
+    ]
+  },
+  {
+    "danish": "kommune",
+    "gender": "en",
+    "english": [
+      "municipality"
+    ]
+  },
+  {
+    "danish": "grænse",
+    "gender": "en",
+    "english": [
+      "border",
+      "limit"
+    ]
+  },
+  {
+    "danish": "sted",
+    "gender": "et",
+    "english": [
+      "place"
+    ]
+  },
+  {
+    "danish": "plads",
+    "gender": "en",
+    "english": [
+      "square",
+      "space",
+      "room"
+    ]
+  },
+  {
+    "danish": "gade",
+    "gender": "en",
+    "english": [
+      "street"
+    ]
+  },
+  {
+    "danish": "vej",
+    "gender": "en",
+    "english": [
+      "road",
+      "way"
+    ]
+  },
+  {
+    "danish": "motorvej",
+    "gender": "en",
+    "english": [
+      "motorway",
+      "highway"
+    ]
+  },
+  {
+    "danish": "bro",
+    "gender": "en",
+    "english": [
+      "bridge"
+    ]
+  },
+  {
+    "danish": "hjørne",
+    "gender": "et",
+    "english": [
+      "corner"
+    ]
+  },
+  {
+    "danish": "park",
+    "gender": "en",
+    "english": [
+      "park"
+    ]
+  },
+  {
+    "danish": "marked",
+    "gender": "et",
+    "english": [
+      "market"
+    ]
+  },
+  {
+    "danish": "butik",
+    "gender": "en",
+    "english": [
+      "shop",
+      "store"
+    ]
+  },
+  {
+    "danish": "forretning",
+    "gender": "en",
+    "english": [
+      "shop",
+      "business"
+    ]
+  },
+  {
+    "danish": "supermarked",
+    "gender": "et",
+    "english": [
+      "supermarket"
+    ]
+  },
+  {
+    "danish": "bager",
+    "gender": "en",
+    "english": [
+      "baker",
+      "bakery"
+    ]
+  },
+  {
+    "danish": "apotek",
+    "gender": "et",
+    "english": [
+      "pharmacy"
+    ]
+  },
+  {
+    "danish": "bank",
+    "gender": "en",
+    "english": [
+      "bank"
+    ]
+  },
+  {
+    "danish": "posthus",
+    "gender": "et",
+    "english": [
+      "post office"
+    ]
+  },
+  {
+    "danish": "kontor",
+    "gender": "et",
+    "english": [
+      "office"
+    ]
+  },
+  {
+    "danish": "fabrik",
+    "gender": "en",
+    "english": [
+      "factory"
+    ]
+  },
+  {
+    "danish": "værksted",
+    "gender": "et",
+    "english": [
+      "workshop",
+      "garage (repair)"
+    ]
+  },
+  {
+    "danish": "hotel",
+    "gender": "et",
+    "english": [
+      "hotel"
+    ]
+  },
+  {
+    "danish": "hospital",
+    "gender": "et",
+    "english": [
+      "hospital"
+    ]
+  },
+  {
+    "danish": "skole",
+    "gender": "en",
+    "english": [
+      "school"
+    ]
+  },
+  {
+    "danish": "gymnasium",
+    "gender": "et",
+    "english": [
+      "upper secondary school"
+    ]
+  },
+  {
+    "danish": "universitet",
+    "gender": "et",
+    "english": [
+      "university"
+    ]
+  },
+  {
+    "danish": "børnehave",
+    "gender": "en",
+    "english": [
+      "kindergarten"
+    ]
+  },
+  {
+    "danish": "bibliotek",
+    "gender": "et",
+    "english": [
+      "library"
+    ]
+  },
+  {
+    "danish": "museum",
+    "gender": "et",
+    "english": [
+      "museum"
+    ]
+  },
+  {
+    "danish": "teater",
+    "gender": "et",
+    "english": [
+      "theatre"
+    ]
+  },
+  {
+    "danish": "biograf",
+    "gender": "en",
+    "english": [
+      "cinema"
+    ]
+  },
+  {
+    "danish": "kirke",
+    "gender": "en",
+    "english": [
+      "church"
+    ]
+  },
+  {
+    "danish": "slot",
+    "gender": "et",
+    "english": [
+      "castle",
+      "palace"
+    ]
+  },
+  {
+    "danish": "tårn",
+    "gender": "et",
+    "english": [
+      "tower"
+    ]
+  },
+  {
+    "danish": "station",
+    "gender": "en",
+    "english": [
+      "station"
+    ]
+  },
+  {
+    "danish": "lufthavn",
+    "gender": "en",
+    "english": [
+      "airport"
+    ]
+  },
+  {
+    "danish": "havn",
+    "gender": "en",
+    "english": [
+      "harbour",
+      "port"
+    ]
+  },
+  {
+    "danish": "stadion",
+    "gender": "et",
+    "english": [
+      "stadium"
+    ]
+  },
+  {
+    "danish": "fængsel",
+    "gender": "et",
+    "english": [
+      "prison"
+    ]
+  },
+  {
+    "danish": "bygning",
+    "gender": "en",
+    "english": [
+      "building"
+    ]
+  },
+  {
+    "danish": "centrum",
+    "gender": "et",
+    "english": [
+      "centre"
+    ]
+  },
+  {
+    "danish": "kvarter",
+    "gender": "et",
+    "english": [
+      "neighbourhood",
+      "quarter of an hour"
+    ]
+  },
+  {
+    "danish": "adresse",
+    "gender": "en",
+    "english": [
+      "address"
+    ]
+  },
+  {
+    "danish": "bil",
+    "gender": "en",
+    "english": [
+      "car"
+    ]
+  },
+  {
+    "danish": "bus",
+    "gender": "en",
+    "english": [
+      "bus"
+    ]
+  },
+  {
+    "danish": "tog",
+    "gender": "et",
+    "english": [
+      "train"
+    ]
+  },
+  {
+    "danish": "fly",
+    "gender": "et",
+    "english": [
+      "aeroplane",
+      "airplane"
+    ]
+  },
+  {
+    "danish": "skib",
+    "gender": "et",
+    "english": [
+      "ship"
+    ]
+  },
+  {
+    "danish": "båd",
+    "gender": "en",
+    "english": [
+      "boat"
+    ]
+  },
+  {
+    "danish": "færge",
+    "gender": "en",
+    "english": [
+      "ferry"
+    ]
+  },
+  {
+    "danish": "cykel",
+    "gender": "en",
+    "english": [
+      "bicycle",
+      "bike"
+    ]
+  },
+  {
+    "danish": "motorcykel",
+    "gender": "en",
+    "english": [
+      "motorcycle"
+    ]
+  },
+  {
+    "danish": "lastbil",
+    "gender": "en",
+    "english": [
+      "lorry",
+      "truck"
+    ]
+  },
+  {
+    "danish": "metro",
+    "gender": "en",
+    "english": [
+      "metro",
+      "underground"
+    ]
+  },
+  {
+    "danish": "hjul",
+    "gender": "et",
+    "english": [
+      "wheel"
+    ]
+  },
+  {
+    "danish": "motor",
+    "gender": "en",
+    "english": [
+      "engine",
+      "motor"
+    ]
+  },
+  {
+    "danish": "benzin",
+    "gender": "en",
+    "english": [
+      "petrol",
+      "gasoline"
+    ]
+  },
+  {
+    "danish": "parkeringsplads",
+    "gender": "en",
+    "english": [
+      "parking space",
+      "car park"
+    ]
+  },
+  {
+    "danish": "trafik",
+    "gender": "en",
+    "english": [
+      "traffic"
+    ]
+  },
+  {
+    "danish": "rejse",
+    "gender": "en",
+    "english": [
+      "journey",
+      "trip"
+    ]
+  },
+  {
+    "danish": "tur",
+    "gender": "en",
+    "english": [
+      "trip",
+      "walk",
+      "turn"
+    ]
+  },
+  {
+    "danish": "billet",
+    "gender": "en",
+    "english": [
+      "ticket"
+    ]
+  },
+  {
+    "danish": "pas",
+    "gender": "et",
+    "english": [
+      "passport",
+      "pass"
+    ]
+  },
+  {
+    "danish": "kort",
+    "gender": "et",
+    "english": [
+      "card",
+      "map"
+    ]
+  },
+  {
+    "danish": "bagage",
+    "gender": "en",
+    "english": [
+      "luggage",
+      "baggage"
+    ]
+  },
+  {
+    "danish": "kuffert",
+    "gender": "en",
+    "english": [
+      "suitcase"
+    ]
+  },
+  {
+    "danish": "afgang",
+    "gender": "en",
+    "english": [
+      "departure"
+    ]
+  },
+  {
+    "danish": "ankomst",
+    "gender": "en",
+    "english": [
+      "arrival"
+    ]
+  },
+  {
+    "danish": "passager",
+    "gender": "en",
+    "english": [
+      "passenger"
+    ]
+  },
+  {
+    "danish": "fart",
+    "gender": "en",
+    "english": [
+      "speed"
+    ]
+  },
+  {
+    "danish": "afstand",
+    "gender": "en",
+    "english": [
+      "distance"
+    ]
+  },
+  {
+    "danish": "kilometer",
+    "gender": "en",
+    "english": [
+      "kilometre"
+    ]
+  },
+  {
+    "danish": "meter",
+    "gender": "en",
+    "english": [
+      "metre"
+    ]
+  },
+  {
+    "danish": "retning",
+    "gender": "en",
+    "english": [
+      "direction"
+    ]
+  },
+  {
+    "danish": "arbejde",
+    "gender": "et",
+    "english": [
+      "work",
+      "job"
+    ]
+  },
+  {
+    "danish": "job",
+    "gender": "et",
+    "english": [
+      "job"
+    ]
+  },
+  {
+    "danish": "stilling",
+    "gender": "en",
+    "english": [
+      "position",
+      "post"
+    ]
+  },
+  {
+    "danish": "løn",
+    "gender": "en",
+    "english": [
+      "salary",
+      "wage"
+    ]
+  },
+  {
+    "danish": "krone",
+    "gender": "en",
+    "english": [
+      "krone",
+      "crown"
+    ]
+  },
+  {
+    "danish": "øre",
+    "gender": "en",
+    "english": [
+      "øre (coin)"
+    ]
+  },
+  {
+    "danish": "pris",
+    "gender": "en",
+    "english": [
+      "price",
+      "prize"
+    ]
+  },
+  {
+    "danish": "faktura",
+    "gender": "en",
+    "english": [
+      "invoice"
+    ]
+  },
+  {
+    "danish": "skat",
+    "gender": "en",
+    "english": [
+      "tax",
+      "treasure",
+      "darling"
+    ]
+  },
+  {
+    "danish": "gæld",
+    "gender": "en",
+    "english": [
+      "debt"
+    ]
+  },
+  {
+    "danish": "lån",
+    "gender": "et",
+    "english": [
+      "loan"
+    ]
+  },
+  {
+    "danish": "konto",
+    "gender": "en",
+    "english": [
+      "account"
+    ]
+  },
+  {
+    "danish": "firma",
+    "gender": "et",
+    "english": [
+      "company",
+      "firm"
+    ]
+  },
+  {
+    "danish": "virksomhed",
+    "gender": "en",
+    "english": [
+      "company",
+      "business"
+    ]
+  },
+  {
+    "danish": "selskab",
+    "gender": "et",
+    "english": [
+      "company",
+      "society",
+      "party"
+    ]
+  },
+  {
+    "danish": "erhverv",
+    "gender": "et",
+    "english": [
+      "trade",
+      "profession"
+    ]
+  },
+  {
+    "danish": "branche",
+    "gender": "en",
+    "english": [
+      "industry",
+      "sector"
+    ]
+  },
+  {
+    "danish": "økonomi",
+    "gender": "en",
+    "english": [
+      "economy"
+    ]
+  },
+  {
+    "danish": "handel",
+    "gender": "en",
+    "english": [
+      "trade",
+      "deal"
+    ]
+  },
+  {
+    "danish": "produkt",
+    "gender": "et",
+    "english": [
+      "product"
+    ]
+  },
+  {
+    "danish": "vare",
+    "gender": "en",
+    "english": [
+      "item",
+      "goods"
+    ]
+  },
+  {
+    "danish": "service",
+    "gender": "en",
+    "english": [
+      "service"
+    ]
+  },
+  {
+    "danish": "kvalitet",
+    "gender": "en",
+    "english": [
+      "quality"
+    ]
+  },
+  {
+    "danish": "mængde",
+    "gender": "en",
+    "english": [
+      "quantity",
+      "amount"
+    ]
+  },
+  {
+    "danish": "antal",
+    "gender": "et",
+    "english": [
+      "number (count)"
+    ]
+  },
+  {
+    "danish": "tal",
+    "gender": "et",
+    "english": [
+      "number",
+      "figure"
+    ]
+  },
+  {
+    "danish": "procent",
+    "gender": "en",
+    "english": [
+      "percent"
+    ]
+  },
+  {
+    "danish": "del",
+    "gender": "en",
+    "english": [
+      "part"
+    ]
+  },
+  {
+    "danish": "helhed",
+    "gender": "en",
+    "english": [
+      "whole"
+    ]
+  },
+  {
+    "danish": "stykke",
+    "gender": "et",
+    "english": [
+      "piece"
+    ]
+  },
+  {
+    "danish": "halvdel",
+    "gender": "en",
+    "english": [
+      "half"
+    ]
+  },
+  {
+    "danish": "side",
+    "gender": "en",
+    "english": [
+      "side",
+      "page"
+    ]
+  },
+  {
+    "danish": "møde",
+    "gender": "et",
+    "english": [
+      "meeting"
+    ]
+  },
+  {
+    "danish": "aftale",
+    "gender": "en",
+    "english": [
+      "agreement",
+      "appointment"
+    ]
+  },
+  {
+    "danish": "kontrakt",
+    "gender": "en",
+    "english": [
+      "contract"
+    ]
+  },
+  {
+    "danish": "projekt",
+    "gender": "et",
+    "english": [
+      "project"
+    ]
+  },
+  {
+    "danish": "opgave",
+    "gender": "en",
+    "english": [
+      "task",
+      "assignment"
+    ]
+  },
+  {
+    "danish": "plan",
+    "gender": "en",
+    "english": [
+      "plan"
+    ]
+  },
+  {
+    "danish": "mål",
+    "gender": "et",
+    "english": [
+      "goal",
+      "target",
+      "measurement"
+    ]
+  },
+  {
+    "danish": "resultat",
+    "gender": "et",
+    "english": [
+      "result"
+    ]
+  },
+  {
+    "danish": "succes",
+    "gender": "en",
+    "english": [
+      "success"
+    ]
+  },
+  {
+    "danish": "fejl",
+    "gender": "en",
+    "english": [
+      "mistake",
+      "error",
+      "fault"
+    ]
+  },
+  {
+    "danish": "problem",
+    "gender": "et",
+    "english": [
+      "problem"
+    ]
+  },
+  {
+    "danish": "løsning",
+    "gender": "en",
+    "english": [
+      "solution"
+    ]
+  },
+  {
+    "danish": "spørgsmål",
+    "gender": "et",
+    "english": [
+      "question"
+    ]
+  },
+  {
+    "danish": "svar",
+    "gender": "et",
+    "english": [
+      "answer"
+    ]
+  },
+  {
+    "danish": "idé",
+    "gender": "en",
+    "english": [
+      "idea"
+    ]
+  },
+  {
+    "danish": "mening",
+    "gender": "en",
+    "english": [
+      "meaning",
+      "opinion"
+    ]
+  },
+  {
+    "danish": "tanke",
+    "gender": "en",
+    "english": [
+      "thought"
+    ]
+  },
+  {
+    "danish": "følelse",
+    "gender": "en",
+    "english": [
+      "feeling"
+    ]
+  },
+  {
+    "danish": "glæde",
+    "gender": "en",
+    "english": [
+      "joy"
+    ]
+  },
+  {
+    "danish": "sorg",
+    "gender": "en",
+    "english": [
+      "grief",
+      "sorrow"
+    ]
+  },
+  {
+    "danish": "lykke",
+    "gender": "en",
+    "english": [
+      "happiness",
+      "luck"
+    ]
+  },
+  {
+    "danish": "held",
+    "gender": "et",
+    "english": [
+      "luck"
+    ]
+  },
+  {
+    "danish": "uheld",
+    "gender": "et",
+    "english": [
+      "mishap",
+      "bad luck"
+    ]
+  },
+  {
+    "danish": "angst",
+    "gender": "en",
+    "english": [
+      "anxiety",
+      "fear"
+    ]
+  },
+  {
+    "danish": "frygt",
+    "gender": "en",
+    "english": [
+      "fear"
+    ]
+  },
+  {
+    "danish": "vrede",
+    "gender": "en",
+    "english": [
+      "anger"
+    ]
+  },
+  {
+    "danish": "kærlighed",
+    "gender": "en",
+    "english": [
+      "love"
+    ]
+  },
+  {
+    "danish": "had",
+    "gender": "et",
+    "english": [
+      "hatred"
+    ]
+  },
+  {
+    "danish": "håb",
+    "gender": "et",
+    "english": [
+      "hope"
+    ]
+  },
+  {
+    "danish": "drøm",
+    "gender": "en",
+    "english": [
+      "dream"
+    ]
+  },
+  {
+    "danish": "ønske",
+    "gender": "et",
+    "english": [
+      "wish"
+    ]
+  },
+  {
+    "danish": "lyst",
+    "gender": "en",
+    "english": [
+      "desire",
+      "inclination"
+    ]
+  },
+  {
+    "danish": "humør",
+    "gender": "et",
+    "english": [
+      "mood"
+    ]
+  },
+  {
+    "danish": "smerte",
+    "gender": "en",
+    "english": [
+      "pain"
+    ]
+  },
+  {
+    "danish": "sygdom",
+    "gender": "en",
+    "english": [
+      "illness",
+      "disease"
+    ]
+  },
+  {
+    "danish": "helbred",
+    "gender": "et",
+    "english": [
+      "health"
+    ]
+  },
+  {
+    "danish": "sundhed",
+    "gender": "en",
+    "english": [
+      "health"
+    ]
+  },
+  {
+    "danish": "medicin",
+    "gender": "en",
+    "english": [
+      "medicine"
+    ]
+  },
+  {
+    "danish": "pille",
+    "gender": "en",
+    "english": [
+      "pill"
+    ]
+  },
+  {
+    "danish": "feber",
+    "gender": "en",
+    "english": [
+      "fever"
+    ]
+  },
+  {
+    "danish": "forkølelse",
+    "gender": "en",
+    "english": [
+      "cold (illness)"
+    ]
+  },
+  {
+    "danish": "hoste",
+    "gender": "en",
+    "english": [
+      "cough"
+    ]
+  },
+  {
+    "danish": "sår",
+    "gender": "et",
+    "english": [
+      "wound"
+    ]
+  },
+  {
+    "danish": "ulykke",
+    "gender": "en",
+    "english": [
+      "accident",
+      "disaster"
+    ]
+  },
+  {
+    "danish": "skade",
+    "gender": "en",
+    "english": [
+      "injury",
+      "damage",
+      "magpie"
+    ]
+  },
+  {
+    "danish": "hjælp",
+    "gender": "en",
+    "english": [
+      "help"
+    ]
+  },
+  {
+    "danish": "råd",
+    "gender": "et",
+    "english": [
+      "advice",
+      "council"
+    ]
+  },
+  {
+    "danish": "fare",
+    "gender": "en",
+    "english": [
+      "danger"
+    ]
+  },
+  {
+    "danish": "sikkerhed",
+    "gender": "en",
+    "english": [
+      "safety",
+      "security"
+    ]
+  },
+  {
+    "danish": "frihed",
+    "gender": "en",
+    "english": [
+      "freedom"
+    ]
+  },
+  {
+    "danish": "fred",
+    "gender": "en",
+    "english": [
+      "peace"
+    ]
+  },
+  {
+    "danish": "krig",
+    "gender": "en",
+    "english": [
+      "war"
+    ]
+  },
+  {
+    "danish": "kamp",
+    "gender": "en",
+    "english": [
+      "fight",
+      "battle",
+      "match"
+    ]
+  },
+  {
+    "danish": "sejr",
+    "gender": "en",
+    "english": [
+      "victory"
+    ]
+  },
+  {
+    "danish": "nederlag",
+    "gender": "et",
+    "english": [
+      "defeat"
+    ]
+  },
+  {
+    "danish": "magt",
+    "gender": "en",
+    "english": [
+      "power"
+    ]
+  },
+  {
+    "danish": "kraft",
+    "gender": "en",
+    "english": [
+      "force",
+      "power"
+    ]
+  },
+  {
+    "danish": "styrke",
+    "gender": "en",
+    "english": [
+      "strength"
+    ]
+  },
+  {
+    "danish": "energi",
+    "gender": "en",
+    "english": [
+      "energy"
+    ]
+  },
+  {
+    "danish": "viden",
+    "gender": "en",
+    "english": [
+      "knowledge"
+    ]
+  },
+  {
+    "danish": "erfaring",
+    "gender": "en",
+    "english": [
+      "experience"
+    ]
+  },
+  {
+    "danish": "evne",
+    "gender": "en",
+    "english": [
+      "ability"
+    ]
+  },
+  {
+    "danish": "talent",
+    "gender": "et",
+    "english": [
+      "talent"
+    ]
+  },
+  {
+    "danish": "kunst",
+    "gender": "en",
+    "english": [
+      "art"
+    ]
+  },
+  {
+    "danish": "kultur",
+    "gender": "en",
+    "english": [
+      "culture"
+    ]
+  },
+  {
+    "danish": "musik",
+    "gender": "en",
+    "english": [
+      "music"
+    ]
+  },
+  {
+    "danish": "sang",
+    "gender": "en",
+    "english": [
+      "song"
+    ]
+  },
+  {
+    "danish": "dans",
+    "gender": "en",
+    "english": [
+      "dance"
+    ]
+  },
+  {
+    "danish": "film",
+    "gender": "en",
+    "english": [
+      "film",
+      "movie"
+    ]
+  },
+  {
+    "danish": "bog",
+    "gender": "en",
+    "english": [
+      "book"
+    ]
+  },
+  {
+    "danish": "roman",
+    "gender": "en",
+    "english": [
+      "novel"
+    ]
+  },
+  {
+    "danish": "digt",
+    "gender": "et",
+    "english": [
+      "poem"
+    ]
+  },
+  {
+    "danish": "eventyr",
+    "gender": "et",
+    "english": [
+      "fairy tale",
+      "adventure"
+    ]
+  },
+  {
+    "danish": "avis",
+    "gender": "en",
+    "english": [
+      "newspaper"
+    ]
+  },
+  {
+    "danish": "artikel",
+    "gender": "en",
+    "english": [
+      "article"
+    ]
+  },
+  {
+    "danish": "nyhed",
+    "gender": "en",
+    "english": [
+      "piece of news"
+    ]
+  },
+  {
+    "danish": "radio",
+    "gender": "en",
+    "english": [
+      "radio"
+    ]
+  },
+  {
+    "danish": "fjernsyn",
+    "gender": "et",
+    "english": [
+      "television"
+    ]
+  },
+  {
+    "danish": "tv",
+    "gender": "et",
+    "english": [
+      "TV"
+    ]
+  },
+  {
+    "danish": "computer",
+    "gender": "en",
+    "english": [
+      "computer"
+    ]
+  },
+  {
+    "danish": "telefon",
+    "gender": "en",
+    "english": [
+      "telephone"
+    ]
+  },
+  {
+    "danish": "mobil",
+    "gender": "en",
+    "english": [
+      "mobile phone"
+    ]
+  },
+  {
+    "danish": "skærm",
+    "gender": "en",
+    "english": [
+      "screen"
+    ]
+  },
+  {
+    "danish": "tastatur",
+    "gender": "et",
+    "english": [
+      "keyboard"
+    ]
+  },
+  {
+    "danish": "program",
+    "gender": "et",
+    "english": [
+      "program",
+      "programme"
+    ]
+  },
+  {
+    "danish": "internet",
+    "gender": "et",
+    "english": [
+      "internet"
+    ]
+  },
+  {
+    "danish": "hjemmeside",
+    "gender": "en",
+    "english": [
+      "website"
+    ]
+  },
+  {
+    "danish": "mail",
+    "gender": "en",
+    "english": [
+      "email"
+    ]
+  },
+  {
+    "danish": "brev",
+    "gender": "et",
+    "english": [
+      "letter"
+    ]
+  },
+  {
+    "danish": "pakke",
+    "gender": "en",
+    "english": [
+      "package",
+      "parcel"
+    ]
+  },
+  {
+    "danish": "frimærke",
+    "gender": "et",
+    "english": [
+      "stamp"
+    ]
+  },
+  {
+    "danish": "konvolut",
+    "gender": "en",
+    "english": [
+      "envelope"
+    ]
+  },
+  {
+    "danish": "besked",
+    "gender": "en",
+    "english": [
+      "message"
+    ]
+  },
+  {
+    "danish": "samtale",
+    "gender": "en",
+    "english": [
+      "conversation"
+    ]
+  },
+  {
+    "danish": "ord",
+    "gender": "et",
+    "english": [
+      "word"
+    ]
+  },
+  {
+    "danish": "sprog",
+    "gender": "et",
+    "english": [
+      "language"
+    ]
+  },
+  {
+    "danish": "sætning",
+    "gender": "en",
+    "english": [
+      "sentence"
+    ]
+  },
+  {
+    "danish": "navn",
+    "gender": "et",
+    "english": [
+      "name"
+    ]
+  },
+  {
+    "danish": "bogstav",
+    "gender": "et",
+    "english": [
+      "letter (of the alphabet)"
+    ]
+  },
+  {
+    "danish": "tekst",
+    "gender": "en",
+    "english": [
+      "text"
+    ]
+  },
+  {
+    "danish": "fortælling",
+    "gender": "en",
+    "english": [
+      "story",
+      "tale"
+    ]
+  },
+  {
+    "danish": "klasse",
+    "gender": "en",
+    "english": [
+      "class"
+    ]
+  },
+  {
+    "danish": "lektie",
+    "gender": "en",
+    "english": [
+      "homework",
+      "lesson"
+    ]
+  },
+  {
+    "danish": "eksamen",
+    "gender": "en",
+    "english": [
+      "exam"
+    ]
+  },
+  {
+    "danish": "prøve",
+    "gender": "en",
+    "english": [
+      "test",
+      "rehearsal"
+    ]
+  },
+  {
+    "danish": "karakter",
+    "gender": "en",
+    "english": [
+      "grade",
+      "character"
+    ]
+  },
+  {
+    "danish": "uddannelse",
+    "gender": "en",
+    "english": [
+      "education"
+    ]
+  },
+  {
+    "danish": "kursus",
+    "gender": "et",
+    "english": [
+      "course"
+    ]
+  },
+  {
+    "danish": "fag",
+    "gender": "et",
+    "english": [
+      "subject",
+      "trade"
+    ]
+  },
+  {
+    "danish": "matematik",
+    "gender": "en",
+    "english": [
+      "mathematics"
+    ]
+  },
+  {
+    "danish": "videnskab",
+    "gender": "en",
+    "english": [
+      "science"
+    ]
+  },
+  {
+    "danish": "forskning",
+    "gender": "en",
+    "english": [
+      "research"
+    ]
+  },
+  {
+    "danish": "teori",
+    "gender": "en",
+    "english": [
+      "theory"
+    ]
+  },
+  {
+    "danish": "eksempel",
+    "gender": "et",
+    "english": [
+      "example"
+    ]
+  },
+  {
+    "danish": "grund",
+    "gender": "en",
+    "english": [
+      "reason",
+      "plot of land"
+    ]
+  },
+  {
+    "danish": "årsag",
+    "gender": "en",
+    "english": [
+      "cause",
+      "reason"
+    ]
+  },
+  {
+    "danish": "virkning",
+    "gender": "en",
+    "english": [
+      "effect"
+    ]
+  },
+  {
+    "danish": "forskel",
+    "gender": "en",
+    "english": [
+      "difference"
+    ]
+  },
+  {
+    "danish": "lighed",
+    "gender": "en",
+    "english": [
+      "similarity",
+      "equality"
+    ]
+  },
+  {
+    "danish": "valg",
+    "gender": "et",
+    "english": [
+      "choice",
+      "election"
+    ]
+  },
+  {
+    "danish": "beslutning",
+    "gender": "en",
+    "english": [
+      "decision"
+    ]
+  },
+  {
+    "danish": "regel",
+    "gender": "en",
+    "english": [
+      "rule"
+    ]
+  },
+  {
+    "danish": "lov",
+    "gender": "en",
+    "english": [
+      "law",
+      "permission"
+    ]
+  },
+  {
+    "danish": "ret",
+    "gender": "en",
+    "english": [
+      "right",
+      "court",
+      "dish"
+    ]
+  },
+  {
+    "danish": "rettighed",
+    "gender": "en",
+    "english": [
+      "right"
+    ]
+  },
+  {
+    "danish": "pligt",
+    "gender": "en",
+    "english": [
+      "duty"
+    ]
+  },
+  {
+    "danish": "ansvar",
+    "gender": "et",
+    "english": [
+      "responsibility"
+    ]
+  },
+  {
+    "danish": "samfund",
+    "gender": "et",
+    "english": [
+      "society",
+      "community"
+    ]
+  },
+  {
+    "danish": "stat",
+    "gender": "en",
+    "english": [
+      "state"
+    ]
+  },
+  {
+    "danish": "regering",
+    "gender": "en",
+    "english": [
+      "government"
+    ]
+  },
+  {
+    "danish": "folketing",
+    "gender": "et",
+    "english": [
+      "parliament (Danish)"
+    ]
+  },
+  {
+    "danish": "parti",
+    "gender": "et",
+    "english": [
+      "party (political)"
+    ]
+  },
+  {
+    "danish": "politik",
+    "gender": "en",
+    "english": [
+      "politics",
+      "policy"
+    ]
+  },
+  {
+    "danish": "demokrati",
+    "gender": "et",
+    "english": [
+      "democracy"
+    ]
+  },
+  {
+    "danish": "befolkning",
+    "gender": "en",
+    "english": [
+      "population"
+    ]
+  },
+  {
+    "danish": "nation",
+    "gender": "en",
+    "english": [
+      "nation"
+    ]
+  },
+  {
+    "danish": "religion",
+    "gender": "en",
+    "english": [
+      "religion"
+    ]
+  },
+  {
+    "danish": "gud",
+    "gender": "en",
+    "english": [
+      "god"
+    ]
+  },
+  {
+    "danish": "tro",
+    "gender": "en",
+    "english": [
+      "faith",
+      "belief"
+    ]
+  },
+  {
+    "danish": "sandhed",
+    "gender": "en",
+    "english": [
+      "truth"
+    ]
+  },
+  {
+    "danish": "løgn",
+    "gender": "en",
+    "english": [
+      "lie"
+    ]
+  },
+  {
+    "danish": "hemmelighed",
+    "gender": "en",
+    "english": [
+      "secret"
+    ]
+  },
+  {
+    "danish": "sjæl",
+    "gender": "en",
+    "english": [
+      "soul"
+    ]
+  },
+  {
+    "danish": "ånd",
+    "gender": "en",
+    "english": [
+      "spirit"
+    ]
+  },
+  {
+    "danish": "måde",
+    "gender": "en",
+    "english": [
+      "way",
+      "manner"
+    ]
+  },
+  {
+    "danish": "form",
+    "gender": "en",
+    "english": [
+      "shape",
+      "form"
+    ]
+  },
+  {
+    "danish": "farve",
+    "gender": "en",
+    "english": [
+      "colour",
+      "paint"
+    ]
+  },
+  {
+    "danish": "størrelse",
+    "gender": "en",
+    "english": [
+      "size"
+    ]
+  },
+  {
+    "danish": "vægt",
+    "gender": "en",
+    "english": [
+      "weight",
+      "scales"
+    ]
+  },
+  {
+    "danish": "længde",
+    "gender": "en",
+    "english": [
+      "length"
+    ]
+  },
+  {
+    "danish": "bredde",
+    "gender": "en",
+    "english": [
+      "width"
+    ]
+  },
+  {
+    "danish": "højde",
+    "gender": "en",
+    "english": [
+      "height"
+    ]
+  },
+  {
+    "danish": "dybde",
+    "gender": "en",
+    "english": [
+      "depth"
+    ]
+  },
+  {
+    "danish": "lyd",
+    "gender": "en",
+    "english": [
+      "sound"
+    ]
+  },
+  {
+    "danish": "støj",
+    "gender": "en",
+    "english": [
+      "noise"
+    ]
+  },
+  {
+    "danish": "lugt",
+    "gender": "en",
+    "english": [
+      "smell"
+    ]
+  },
+  {
+    "danish": "duft",
+    "gender": "en",
+    "english": [
+      "scent",
+      "fragrance"
+    ]
+  },
+  {
+    "danish": "syn",
+    "gender": "et",
+    "english": [
+      "sight",
+      "vision"
+    ]
+  },
+  {
+    "danish": "mørke",
+    "gender": "et",
+    "english": [
+      "darkness"
+    ]
+  },
+  {
+    "danish": "skygge",
+    "gender": "en",
+    "english": [
+      "shadow",
+      "shade"
+    ]
+  },
+  {
+    "danish": "varme",
+    "gender": "en",
+    "english": [
+      "heat",
+      "warmth"
+    ]
+  },
+  {
+    "danish": "kulde",
+    "gender": "en",
+    "english": [
+      "cold"
+    ]
+  },
+  {
+    "danish": "spil",
+    "gender": "et",
+    "english": [
+      "game"
+    ]
+  },
+  {
+    "danish": "leg",
+    "gender": "en",
+    "english": [
+      "play",
+      "game"
+    ]
+  },
+  {
+    "danish": "legetøj",
+    "gender": "et",
+    "english": [
+      "toys"
+    ]
+  },
+  {
+    "danish": "bold",
+    "gender": "en",
+    "english": [
+      "ball"
+    ]
+  },
+  {
+    "danish": "fodbold",
+    "gender": "en",
+    "english": [
+      "football",
+      "soccer"
+    ]
+  },
+  {
+    "danish": "sport",
+    "gender": "en",
+    "english": [
+      "sport"
+    ]
+  },
+  {
+    "danish": "hold",
+    "gender": "et",
+    "english": [
+      "team"
+    ]
+  },
+  {
+    "danish": "løb",
+    "gender": "et",
+    "english": [
+      "run",
+      "race"
+    ]
+  },
+  {
+    "danish": "hobby",
+    "gender": "en",
+    "english": [
+      "hobby"
+    ]
+  },
+  {
+    "danish": "fest",
+    "gender": "en",
+    "english": [
+      "party"
+    ]
+  },
+  {
+    "danish": "gave",
+    "gender": "en",
+    "english": [
+      "gift",
+      "present"
+    ]
+  },
+  {
+    "danish": "bryllup",
+    "gender": "et",
+    "english": [
+      "wedding"
+    ]
+  },
+  {
+    "danish": "begravelse",
+    "gender": "en",
+    "english": [
+      "funeral"
+    ]
+  },
+  {
+    "danish": "ting",
+    "gender": "en",
+    "english": [
+      "thing"
+    ]
+  },
+  {
+    "danish": "genstand",
+    "gender": "en",
+    "english": [
+      "object"
+    ]
+  },
+  {
+    "danish": "værktøj",
+    "gender": "et",
+    "english": [
+      "tool"
+    ]
+  },
+  {
+    "danish": "hammer",
+    "gender": "en",
+    "english": [
+      "hammer"
+    ]
+  },
+  {
+    "danish": "søm",
+    "gender": "et",
+    "english": [
+      "nail"
+    ]
+  },
+  {
+    "danish": "skrue",
+    "gender": "en",
+    "english": [
+      "screw"
+    ]
+  },
+  {
+    "danish": "sav",
+    "gender": "en",
+    "english": [
+      "saw"
+    ]
+  },
+  {
+    "danish": "saks",
+    "gender": "en",
+    "english": [
+      "scissors"
+    ]
+  },
+  {
+    "danish": "tang",
+    "gender": "en",
+    "english": [
+      "pliers",
+      "seaweed"
+    ]
+  },
+  {
+    "danish": "reb",
+    "gender": "et",
+    "english": [
+      "rope"
+    ]
+  },
+  {
+    "danish": "snor",
+    "gender": "en",
+    "english": [
+      "string",
+      "cord"
+    ]
+  },
+  {
+    "danish": "papir",
+    "gender": "et",
+    "english": [
+      "paper"
+    ]
+  },
+  {
+    "danish": "pen",
+    "gender": "en",
+    "english": [
+      "pen"
+    ]
+  },
+  {
+    "danish": "blyant",
+    "gender": "en",
+    "english": [
+      "pencil"
+    ]
+  },
+  {
+    "danish": "viskelæder",
+    "gender": "et",
+    "english": [
+      "eraser",
+      "rubber"
+    ]
+  },
+  {
+    "danish": "lineal",
+    "gender": "en",
+    "english": [
+      "ruler"
+    ]
+  },
+  {
+    "danish": "hæfte",
+    "gender": "et",
+    "english": [
+      "booklet",
+      "exercise book"
+    ]
+  },
+  {
+    "danish": "notesbog",
+    "gender": "en",
+    "english": [
+      "notebook"
+    ]
+  },
+  {
+    "danish": "mappe",
+    "gender": "en",
+    "english": [
+      "folder",
+      "briefcase"
+    ]
+  },
+  {
+    "danish": "maskine",
+    "gender": "en",
+    "english": [
+      "machine"
+    ]
+  },
+  {
+    "danish": "apparat",
+    "gender": "et",
+    "english": [
+      "device",
+      "appliance"
+    ]
+  },
+  {
+    "danish": "batteri",
+    "gender": "et",
+    "english": [
+      "battery"
+    ]
+  },
+  {
+    "danish": "strøm",
+    "gender": "en",
+    "english": [
+      "electricity",
+      "current"
+    ]
+  },
+  {
+    "danish": "gas",
+    "gender": "en",
+    "english": [
+      "gas"
+    ]
+  },
+  {
+    "danish": "metal",
+    "gender": "et",
+    "english": [
+      "metal"
+    ]
+  },
+  {
+    "danish": "jern",
+    "gender": "et",
+    "english": [
+      "iron"
+    ]
+  },
+  {
+    "danish": "guld",
+    "gender": "et",
+    "english": [
+      "gold"
+    ]
+  },
+  {
+    "danish": "sølv",
+    "gender": "et",
+    "english": [
+      "silver"
+    ]
+  },
+  {
+    "danish": "stof",
+    "gender": "et",
+    "english": [
+      "fabric",
+      "substance"
+    ]
+  },
+  {
+    "danish": "uld",
+    "gender": "en",
+    "english": [
+      "wool"
+    ]
+  },
+  {
+    "danish": "bomuld",
+    "gender": "en",
+    "english": [
+      "cotton"
+    ]
+  },
+  {
+    "danish": "læder",
+    "gender": "et",
+    "english": [
+      "leather"
+    ]
+  },
+  {
+    "danish": "kæde",
+    "gender": "en",
+    "english": [
+      "chain"
+    ]
+  },
+  {
+    "danish": "nål",
+    "gender": "en",
+    "english": [
+      "needle"
+    ]
+  },
+  {
+    "danish": "tråd",
+    "gender": "en",
+    "english": [
+      "thread"
+    ]
+  },
+  {
+    "danish": "lim",
+    "gender": "en",
+    "english": [
+      "glue"
+    ]
+  },
+  {
+    "danish": "pensel",
+    "gender": "en",
+    "english": [
+      "paintbrush"
+    ]
+  },
+  {
+    "danish": "kamera",
+    "gender": "et",
+    "english": [
+      "camera"
+    ]
+  },
+  {
+    "danish": "foto",
+    "gender": "et",
+    "english": [
+      "photo"
+    ]
+  },
+  {
+    "danish": "dukke",
+    "gender": "en",
+    "english": [
+      "doll"
+    ]
+  },
+  {
+    "danish": "våben",
+    "gender": "et",
+    "english": [
+      "weapon"
+    ]
+  },
+  {
+    "danish": "gevær",
+    "gender": "et",
+    "english": [
+      "rifle",
+      "gun"
+    ]
+  },
+  {
+    "danish": "pistol",
+    "gender": "en",
+    "english": [
+      "pistol"
+    ]
+  },
+  {
+    "danish": "bombe",
+    "gender": "en",
+    "english": [
+      "bomb"
+    ]
+  },
+  {
+    "danish": "flag",
+    "gender": "et",
+    "english": [
+      "flag"
+    ]
+  },
+  {
+    "danish": "symbol",
+    "gender": "et",
+    "english": [
+      "symbol"
+    ]
+  },
+  {
+    "danish": "tegn",
+    "gender": "et",
+    "english": [
+      "sign",
+      "character"
+    ]
+  },
+  {
+    "danish": "skilt",
+    "gender": "et",
+    "english": [
+      "sign",
+      "plate"
+    ]
+  },
+  {
+    "danish": "liste",
+    "gender": "en",
+    "english": [
+      "list"
+    ]
+  },
+  {
+    "danish": "tabel",
+    "gender": "en",
+    "english": [
+      "table (data)"
+    ]
+  },
+  {
+    "danish": "figur",
+    "gender": "en",
+    "english": [
+      "figure"
+    ]
+  },
+  {
+    "danish": "linje",
+    "gender": "en",
+    "english": [
+      "line"
+    ]
+  },
+  {
+    "danish": "punkt",
+    "gender": "et",
+    "english": [
+      "point"
+    ]
+  },
+  {
+    "danish": "cirkel",
+    "gender": "en",
+    "english": [
+      "circle"
+    ]
+  },
+  {
+    "danish": "firkant",
+    "gender": "en",
+    "english": [
+      "square",
+      "rectangle"
+    ]
+  },
+  {
+    "danish": "trekant",
+    "gender": "en",
+    "english": [
+      "triangle"
+    ]
+  },
+  {
+    "danish": "kugle",
+    "gender": "en",
+    "english": [
+      "ball",
+      "sphere",
+      "bullet"
+    ]
+  },
+  {
+    "danish": "kant",
+    "gender": "en",
+    "english": [
+      "edge"
+    ]
+  },
+  {
+    "danish": "midte",
+    "gender": "en",
+    "english": [
+      "middle"
+    ]
+  },
+  {
+    "danish": "top",
+    "gender": "en",
+    "english": [
+      "top"
+    ]
+  },
+  {
+    "danish": "bund",
+    "gender": "en",
+    "english": [
+      "bottom"
+    ]
+  },
+  {
+    "danish": "overflade",
+    "gender": "en",
+    "english": [
+      "surface"
+    ]
+  },
+  {
+    "danish": "indhold",
+    "gender": "et",
+    "english": [
+      "content"
+    ]
+  },
+  {
+    "danish": "system",
+    "gender": "et",
+    "english": [
+      "system"
+    ]
+  },
+  {
+    "danish": "metode",
+    "gender": "en",
+    "english": [
+      "method"
+    ]
+  },
+  {
+    "danish": "proces",
+    "gender": "en",
+    "english": [
+      "process"
+    ]
+  },
+  {
+    "danish": "udvikling",
+    "gender": "en",
+    "english": [
+      "development"
+    ]
+  },
+  {
+    "danish": "forandring",
+    "gender": "en",
+    "english": [
+      "change"
+    ]
+  },
+  {
+    "danish": "ændring",
+    "gender": "en",
+    "english": [
+      "change",
+      "alteration"
+    ]
+  },
+  {
+    "danish": "vækst",
+    "gender": "en",
+    "english": [
+      "growth"
+    ]
+  },
+  {
+    "danish": "begivenhed",
+    "gender": "en",
+    "english": [
+      "event"
+    ]
+  },
+  {
+    "danish": "situation",
+    "gender": "en",
+    "english": [
+      "situation"
+    ]
+  },
+  {
+    "danish": "tilfælde",
+    "gender": "et",
+    "english": [
+      "case",
+      "coincidence"
+    ]
+  },
+  {
+    "danish": "mulighed",
+    "gender": "en",
+    "english": [
+      "possibility",
+      "opportunity"
+    ]
+  },
+  {
+    "danish": "chance",
+    "gender": "en",
+    "english": [
+      "chance"
+    ]
+  },
+  {
+    "danish": "risiko",
+    "gender": "en",
+    "english": [
+      "risk"
+    ]
+  },
+  {
+    "danish": "krav",
+    "gender": "et",
+    "english": [
+      "demand",
+      "requirement"
+    ]
+  },
+  {
+    "danish": "behov",
+    "gender": "et",
+    "english": [
+      "need"
+    ]
+  },
+  {
+    "danish": "interesse",
+    "gender": "en",
+    "english": [
+      "interest"
+    ]
+  },
+  {
+    "danish": "opmærksomhed",
+    "gender": "en",
+    "english": [
+      "attention"
+    ]
+  },
+  {
+    "danish": "indtryk",
+    "gender": "et",
+    "english": [
+      "impression"
+    ]
+  },
+  {
+    "danish": "oplevelse",
+    "gender": "en",
+    "english": [
+      "experience"
+    ]
+  },
+  {
+    "danish": "minde",
+    "gender": "et",
+    "english": [
+      "memory (recollection)"
+    ]
+  },
+  {
+    "danish": "hukommelse",
+    "gender": "en",
+    "english": [
+      "memory"
+    ]
+  },
+  {
+    "danish": "fantasi",
+    "gender": "en",
+    "english": [
+      "imagination"
+    ]
+  },
+  {
+    "danish": "humor",
+    "gender": "en",
+    "english": [
+      "humour"
+    ]
+  },
+  {
+    "danish": "vittighed",
+    "gender": "en",
+    "english": [
+      "joke"
+    ]
+  },
+  {
+    "danish": "grin",
+    "gender": "et",
+    "english": [
+      "laugh"
+    ]
+  },
+  {
+    "danish": "smil",
+    "gender": "et",
+    "english": [
+      "smile"
+    ]
+  },
+  {
+    "danish": "kys",
+    "gender": "et",
+    "english": [
+      "kiss"
+    ]
+  },
+  {
+    "danish": "kram",
+    "gender": "et",
+    "english": [
+      "hug"
+    ]
+  },
+  {
+    "danish": "rygte",
+    "gender": "et",
+    "english": [
+      "rumour",
+      "reputation"
+    ]
+  },
+  {
+    "danish": "ære",
+    "gender": "en",
+    "english": [
+      "honour"
+    ]
+  },
+  {
+    "danish": "skam",
+    "gender": "en",
+    "english": [
+      "shame"
+    ]
+  },
+  {
+    "danish": "skyld",
+    "gender": "en",
+    "english": [
+      "guilt",
+      "fault"
+    ]
+  },
+  {
+    "danish": "straf",
+    "gender": "en",
+    "english": [
+      "punishment"
+    ]
+  },
+  {
+    "danish": "belønning",
+    "gender": "en",
+    "english": [
+      "reward"
+    ]
+  },
+  {
+    "danish": "undskyldning",
+    "gender": "en",
+    "english": [
+      "apology",
+      "excuse"
+    ]
+  },
+  {
+    "danish": "tak",
+    "gender": "en",
+    "english": [
+      "thanks"
+    ]
+  },
+  {
+    "danish": "hilsen",
+    "gender": "en",
+    "english": [
+      "greeting"
+    ]
+  },
+  {
+    "danish": "invitation",
+    "gender": "en",
+    "english": [
+      "invitation"
+    ]
+  },
+  {
+    "danish": "besøg",
+    "gender": "et",
+    "english": [
+      "visit"
+    ]
+  },
+  {
+    "danish": "vane",
+    "gender": "en",
+    "english": [
+      "habit"
+    ]
+  },
+  {
+    "danish": "tradition",
+    "gender": "en",
+    "english": [
+      "tradition"
+    ]
+  },
+  {
+    "danish": "skik",
+    "gender": "en",
+    "english": [
+      "custom"
+    ]
+  },
+  {
+    "danish": "miljø",
+    "gender": "et",
+    "english": [
+      "environment"
+    ]
+  },
+  {
+    "danish": "forurening",
+    "gender": "en",
+    "english": [
+      "pollution"
+    ]
+  },
+  {
+    "danish": "ressource",
+    "gender": "en",
+    "english": [
+      "resource"
+    ]
+  },
+  {
+    "danish": "aktivitet",
+    "gender": "en",
+    "english": [
+      "activity"
+    ]
+  },
+  {
+    "danish": "alarm",
+    "gender": "en",
+    "english": [
+      "alarm"
+    ]
+  },
+  {
+    "danish": "ambulance",
+    "gender": "en",
+    "english": [
+      "ambulance"
+    ]
+  },
+  {
+    "danish": "annonce",
+    "gender": "en",
+    "english": [
+      "advertisement"
+    ]
+  },
+  {
+    "danish": "appetit",
+    "gender": "en",
+    "english": [
+      "appetite"
+    ]
+  },
+  {
+    "danish": "arrangement",
+    "gender": "et",
+    "english": [
+      "event",
+      "arrangement"
+    ]
+  },
+  {
+    "danish": "arv",
+    "gender": "en",
+    "english": [
+      "inheritance"
+    ]
+  },
+  {
+    "danish": "atmosfære",
+    "gender": "en",
+    "english": [
+      "atmosphere"
+    ]
+  },
+  {
+    "danish": "balance",
+    "gender": "en",
+    "english": [
+      "balance"
+    ]
+  },
+  {
+    "danish": "bane",
+    "gender": "en",
+    "english": [
+      "track",
+      "course",
+      "pitch"
+    ]
+  },
+  {
+    "danish": "barnevogn",
+    "gender": "en",
+    "english": [
+      "pram",
+      "stroller"
+    ]
+  },
+  {
+    "danish": "behandling",
+    "gender": "en",
+    "english": [
+      "treatment"
+    ]
+  },
+  {
+    "danish": "beløb",
+    "gender": "et",
+    "english": [
+      "amount",
+      "sum"
+    ]
+  },
+  {
+    "danish": "bevis",
+    "gender": "et",
+    "english": [
+      "proof",
+      "evidence"
+    ]
+  },
+  {
+    "danish": "bevægelse",
+    "gender": "en",
+    "english": [
+      "movement"
+    ]
+  },
+  {
+    "danish": "blik",
+    "gender": "et",
+    "english": [
+      "look",
+      "glance"
+    ]
+  },
+  {
+    "danish": "boks",
+    "gender": "en",
+    "english": [
+      "box",
+      "booth"
+    ]
+  },
+  {
+    "danish": "bunke",
+    "gender": "en",
+    "english": [
+      "pile",
+      "heap"
+    ]
+  },
+  {
+    "danish": "byrde",
+    "gender": "en",
+    "english": [
+      "burden"
+    ]
+  },
+  {
+    "danish": "bøde",
+    "gender": "en",
+    "english": [
+      "fine"
+    ]
+  },
+  {
+    "danish": "debat",
+    "gender": "en",
+    "english": [
+      "debate"
+    ]
+  },
+  {
+    "danish": "detalje",
+    "gender": "en",
+    "english": [
+      "detail"
+    ]
+  },
+  {
+    "danish": "dialog",
+    "gender": "en",
+    "english": [
+      "dialogue"
+    ]
+  },
+  {
+    "danish": "diskussion",
+    "gender": "en",
+    "english": [
+      "discussion"
+    ]
+  },
+  {
+    "danish": "dokument",
+    "gender": "et",
+    "english": [
+      "document"
+    ]
+  },
+  {
+    "danish": "emne",
+    "gender": "et",
+    "english": [
+      "topic",
+      "subject"
+    ]
+  },
+  {
+    "danish": "eksplosion",
+    "gender": "en",
+    "english": [
+      "explosion"
+    ]
+  },
+  {
+    "danish": "fald",
+    "gender": "et",
+    "english": [
+      "fall",
+      "case"
+    ]
+  },
+  {
+    "danish": "fiasko",
+    "gender": "en",
+    "english": [
+      "failure",
+      "fiasco"
+    ]
+  },
+  {
+    "danish": "flertal",
+    "gender": "et",
+    "english": [
+      "majority",
+      "plural"
+    ]
+  },
+  {
+    "danish": "forbindelse",
+    "gender": "en",
+    "english": [
+      "connection"
+    ]
+  },
+  {
+    "danish": "forbrug",
+    "gender": "et",
+    "english": [
+      "consumption"
+    ]
+  },
+  {
+    "danish": "forbud",
+    "gender": "et",
+    "english": [
+      "ban",
+      "prohibition"
+    ]
+  },
+  {
+    "danish": "forening",
+    "gender": "en",
+    "english": [
+      "association",
+      "club"
+    ]
+  },
+  {
+    "danish": "forhold",
+    "gender": "et",
+    "english": [
+      "relationship",
+      "condition"
+    ]
+  },
+  {
+    "danish": "forklaring",
+    "gender": "en",
+    "english": [
+      "explanation"
+    ]
+  },
+  {
+    "danish": "forslag",
+    "gender": "et",
+    "english": [
+      "proposal",
+      "suggestion"
+    ]
+  },
+  {
+    "danish": "forsøg",
+    "gender": "et",
+    "english": [
+      "attempt",
+      "experiment"
+    ]
+  },
+  {
+    "danish": "forventning",
+    "gender": "en",
+    "english": [
+      "expectation"
+    ]
+  },
+  {
+    "danish": "fritid",
+    "gender": "en",
+    "english": [
+      "leisure time",
+      "spare time"
+    ]
+  },
+  {
+    "danish": "fundament",
+    "gender": "et",
+    "english": [
+      "foundation"
+    ]
+  },
+  {
+    "danish": "glimt",
+    "gender": "et",
+    "english": [
+      "glimpse",
+      "flash"
+    ]
+  },
+  {
+    "danish": "gruppe",
+    "gender": "en",
+    "english": [
+      "group"
+    ]
+  },
+  {
+    "danish": "handling",
+    "gender": "en",
+    "english": [
+      "action",
+      "plot"
+    ]
+  },
+  {
+    "danish": "hensyn",
+    "gender": "et",
+    "english": [
+      "consideration"
+    ]
+  },
+  {
+    "danish": "højtid",
+    "gender": "en",
+    "english": [
+      "religious festival",
+      "holiday"
+    ]
+  },
+  {
+    "danish": "information",
+    "gender": "en",
+    "english": [
+      "information"
+    ]
+  },
+  {
+    "danish": "instrument",
+    "gender": "et",
+    "english": [
+      "instrument"
+    ]
+  },
+  {
+    "danish": "interview",
+    "gender": "et",
+    "english": [
+      "interview"
+    ]
+  },
+  {
+    "danish": "kapitel",
+    "gender": "et",
+    "english": [
+      "chapter"
+    ]
+  },
+  {
+    "danish": "kategori",
+    "gender": "en",
+    "english": [
+      "category"
+    ]
+  },
+  {
+    "danish": "kilde",
+    "gender": "en",
+    "english": [
+      "source",
+      "spring"
+    ]
+  },
+  {
+    "danish": "klage",
+    "gender": "en",
+    "english": [
+      "complaint"
+    ]
+  },
+  {
+    "danish": "konflikt",
+    "gender": "en",
+    "english": [
+      "conflict"
+    ]
+  },
+  {
+    "danish": "konkurrence",
+    "gender": "en",
+    "english": [
+      "competition"
+    ]
+  },
+  {
+    "danish": "kontrol",
+    "gender": "en",
+    "english": [
+      "control",
+      "check"
+    ]
+  },
+  {
+    "danish": "kritik",
+    "gender": "en",
+    "english": [
+      "criticism"
+    ]
+  },
+  {
+    "danish": "kø",
+    "gender": "en",
+    "english": [
+      "queue",
+      "line"
+    ]
+  },
+  {
+    "danish": "lejr",
+    "gender": "en",
+    "english": [
+      "camp"
+    ]
+  },
+  {
+    "danish": "luksus",
+    "gender": "en",
+    "english": [
+      "luxury"
+    ]
+  },
+  {
+    "danish": "medie",
+    "gender": "et",
+    "english": [
+      "medium"
+    ]
+  },
+  {
+    "danish": "middel",
+    "gender": "et",
+    "english": [
+      "means",
+      "remedy"
+    ]
+  },
+  {
+    "danish": "model",
+    "gender": "en",
+    "english": [
+      "model"
+    ]
+  },
+  {
+    "danish": "motion",
+    "gender": "en",
+    "english": [
+      "exercise"
+    ]
+  },
+  {
+    "danish": "mønster",
+    "gender": "et",
+    "english": [
+      "pattern"
+    ]
+  },
+  {
+    "danish": "oversigt",
+    "gender": "en",
+    "english": [
+      "overview"
+    ]
+  },
+  {
+    "danish": "pause",
+    "gender": "en",
+    "english": [
+      "break",
+      "pause"
+    ]
+  },
+  {
+    "danish": "periode",
+    "gender": "en",
+    "english": [
+      "period"
+    ]
+  },
+  {
+    "danish": "position",
+    "gender": "en",
+    "english": [
+      "position"
+    ]
+  },
+  {
+    "danish": "pres",
+    "gender": "et",
+    "english": [
+      "pressure"
+    ]
+  },
+  {
+    "danish": "princip",
+    "gender": "et",
+    "english": [
+      "principle"
+    ]
+  },
+  {
+    "danish": "prioritet",
+    "gender": "en",
+    "english": [
+      "priority"
+    ]
+  },
+  {
+    "danish": "produktion",
+    "gender": "en",
+    "english": [
+      "production"
+    ]
+  },
+  {
+    "danish": "profil",
+    "gender": "en",
+    "english": [
+      "profile"
+    ]
+  },
+  {
+    "danish": "protest",
+    "gender": "en",
+    "english": [
+      "protest"
+    ]
+  },
+  {
+    "danish": "rapport",
+    "gender": "en",
+    "english": [
+      "report"
+    ]
+  },
+  {
+    "danish": "reaktion",
+    "gender": "en",
+    "english": [
+      "reaction"
+    ]
+  },
+  {
+    "danish": "rolle",
+    "gender": "en",
+    "english": [
+      "role"
+    ]
+  },
+  {
+    "danish": "ro",
+    "gender": "en",
+    "english": [
+      "peace and quiet",
+      "calm"
+    ]
+  },
+  {
+    "danish": "sag",
+    "gender": "en",
+    "english": [
+      "matter",
+      "case",
+      "cause"
+    ]
+  },
+  {
+    "danish": "samarbejde",
+    "gender": "et",
+    "english": [
+      "cooperation",
+      "collaboration"
+    ]
+  },
+  {
+    "danish": "samling",
+    "gender": "en",
+    "english": [
+      "collection"
+    ]
+  },
+  {
+    "danish": "sammenhæng",
+    "gender": "en",
+    "english": [
+      "context",
+      "connection"
+    ]
+  },
+  {
+    "danish": "signal",
+    "gender": "et",
+    "english": [
+      "signal"
+    ]
+  },
+  {
+    "danish": "skridt",
+    "gender": "et",
+    "english": [
+      "step"
+    ]
+  },
+  {
+    "danish": "skæbne",
+    "gender": "en",
+    "english": [
+      "fate",
+      "destiny"
+    ]
+  },
+  {
+    "danish": "slags",
+    "gender": "en",
+    "english": [
+      "kind",
+      "sort"
+    ]
+  },
+  {
+    "danish": "spor",
+    "gender": "et",
+    "english": [
+      "track",
+      "trace"
+    ]
+  },
+  {
+    "danish": "stil",
+    "gender": "en",
+    "english": [
+      "style"
+    ]
+  },
+  {
+    "danish": "stilhed",
+    "gender": "en",
+    "english": [
+      "silence"
+    ]
+  },
+  {
+    "danish": "strategi",
+    "gender": "en",
+    "english": [
+      "strategy"
+    ]
+  },
+  {
+    "danish": "struktur",
+    "gender": "en",
+    "english": [
+      "structure"
+    ]
+  },
+  {
+    "danish": "støtte",
+    "gender": "en",
+    "english": [
+      "support"
+    ]
+  },
+  {
+    "danish": "synspunkt",
+    "gender": "et",
+    "english": [
+      "point of view"
+    ]
+  },
+  {
+    "danish": "tema",
+    "gender": "et",
+    "english": [
+      "theme"
+    ]
+  },
+  {
+    "danish": "trussel",
+    "gender": "en",
+    "english": [
+      "threat"
+    ]
+  },
+  {
+    "danish": "tvivl",
+    "gender": "en",
+    "english": [
+      "doubt"
+    ]
+  },
+  {
+    "danish": "underskrift",
+    "gender": "en",
+    "english": [
+      "signature"
+    ]
+  },
+  {
+    "danish": "vilje",
+    "gender": "en",
+    "english": [
+      "will"
+    ]
+  },
+  {
+    "danish": "værdi",
+    "gender": "en",
+    "english": [
+      "value"
+    ]
+  },
+  {
+    "danish": "version",
+    "gender": "en",
+    "english": [
+      "version"
+    ]
+  },
+  {
+    "danish": "zone",
+    "gender": "en",
+    "english": [
+      "zone"
+    ]
+  },
+  {
+    "danish": "overraskelse",
+    "gender": "en",
+    "english": [
+      "surprise"
+    ]
+  },
+  {
+    "danish": "præmie",
+    "gender": "en",
+    "english": [
+      "prize"
+    ]
+  },
+  {
+    "danish": "præstation",
+    "gender": "en",
+    "english": [
+      "performance",
+      "achievement"
+    ]
+  },
+  {
+    "danish": "rabat",
+    "gender": "en",
+    "english": [
+      "discount"
+    ]
+  },
+  {
+    "danish": "reklame",
+    "gender": "en",
+    "english": [
+      "advertisement",
+      "commercial"
+    ]
+  },
+  {
+    "danish": "tilbud",
+    "gender": "et",
+    "english": [
+      "offer"
+    ]
+  },
+  {
+    "danish": "ordre",
+    "gender": "en",
+    "english": [
+      "order (command",
+      "purchase)"
+    ]
+  },
+  {
+    "danish": "bestilling",
+    "gender": "en",
+    "english": [
+      "order",
+      "booking"
+    ]
+  },
+  {
+    "danish": "køb",
+    "gender": "et",
+    "english": [
+      "purchase"
+    ]
+  },
+  {
+    "danish": "salg",
+    "gender": "et",
+    "english": [
+      "sale"
+    ]
+  },
+  {
+    "danish": "kvittering",
+    "gender": "en",
+    "english": [
+      "receipt"
+    ]
+  },
+  {
+    "danish": "mønt",
+    "gender": "en",
+    "english": [
+      "coin"
+    ]
+  },
+  {
+    "danish": "seddel",
+    "gender": "en",
+    "english": [
+      "note",
+      "banknote"
+    ]
+  },
+  {
+    "danish": "frist",
+    "gender": "en",
+    "english": [
+      "deadline"
+    ]
+  },
+  {
+    "danish": "øvelse",
+    "gender": "en",
+    "english": [
+      "exercise",
+      "drill"
+    ]
+  },
+  {
+    "danish": "træning",
+    "gender": "en",
+    "english": [
+      "training"
+    ]
+  },
+  {
+    "danish": "tilskuer",
+    "gender": "en",
+    "english": [
+      "spectator"
+    ]
+  },
+  {
+    "danish": "publikum",
+    "gender": "et",
+    "english": [
+      "audience"
+    ]
+  },
+  {
+    "danish": "koncert",
+    "gender": "en",
+    "english": [
+      "concert"
+    ]
+  },
+  {
+    "danish": "forestilling",
+    "gender": "en",
+    "english": [
+      "performance",
+      "show"
+    ]
+  },
+  {
+    "danish": "scene",
+    "gender": "en",
+    "english": [
+      "stage",
+      "scene"
+    ]
+  },
+  {
+    "danish": "instruktør",
+    "gender": "en",
+    "english": [
+      "director",
+      "instructor"
+    ]
+  },
+  {
+    "danish": "udstilling",
+    "gender": "en",
+    "english": [
+      "exhibition"
+    ]
+  },
+  {
+    "danish": "guitar",
+    "gender": "en",
+    "english": [
+      "guitar"
+    ]
+  },
+  {
+    "danish": "klaver",
+    "gender": "et",
+    "english": [
+      "piano"
+    ]
+  },
+  {
+    "danish": "melodi",
+    "gender": "en",
+    "english": [
+      "melody",
+      "tune"
+    ]
+  },
+  {
+    "danish": "tone",
+    "gender": "en",
+    "english": [
+      "tone",
+      "note"
+    ]
+  },
+  {
+    "danish": "note",
+    "gender": "en",
+    "english": [
+      "note"
+    ]
+  },
+  {
+    "danish": "orkester",
+    "gender": "et",
+    "english": [
+      "orchestra"
+    ]
+  },
+  {
+    "danish": "band",
+    "gender": "et",
+    "english": [
+      "band"
+    ]
+  }
+]

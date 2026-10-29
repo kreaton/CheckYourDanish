@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "CheckYourDanish",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--project", "CheckYourDanish", "--launch-profile", "http", "--no-launch-browser"],
+      "port": 5147
+    }
+  ]
+}
