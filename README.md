@@ -1,6 +1,13 @@
 # Check Your Danish
 
-A spelling game for English speakers practising Danish nouns (Blazor WebAssembly, .NET 10).
+[![Live app](https://img.shields.io/badge/live%20app-open-2ea44f)](https://kreaton.github.io/CheckYourDanish/)
+![Blazor WebAssembly](https://img.shields.io/badge/Blazor-WebAssembly-lightgrey)
+![.NET 10](https://img.shields.io/badge/.NET-10-lightgrey)
+![Installable web app](https://img.shields.io/badge/PWA-installable-lightgrey)
+
+![Check Your Danish: spell the Danish nouns and get the gender right](images/banner.png)
+
+**A spelling game for English speakers practising Danish nouns.**
 
 **Play it: <https://kreaton.github.io/CheckYourDanish/>**
 
