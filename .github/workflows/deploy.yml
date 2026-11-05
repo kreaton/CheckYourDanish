@@ -1,4 +1,4 @@
-name: Build and Deploy Blazor WASM to FTP
+name: Build and Deploy Blazor WASM to FTP and GitHub Pages
 
 on:
   push:
@@ -53,38 +53,28 @@ jobs:
           server-dir: ${{ secrets.FTP_FOLDER }}/
           local-dir: ./release/wwwroot/
 
-      # ---- GitHub Pages deployment (disabled) ----
+  # Publishes to https://kreaton.github.io/CheckYourDanish/ (Settings > Pages > Source: GitHub Actions).
+  deploy-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download publish artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: publish-output
+          path: release
 
-      # # GitHub Pages ignores folders starting with an underscore (like _framework) unless .nojekyll is present
-      # - name: Add .nojekyll file
-      #   run: touch release/wwwroot/.nojekyll
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: release/wwwroot
 
-      # # Essential for client-side routing so refreshing a subpage doesn't throw a 404 error
-      # - name: Copy index.html to 404.html
-      #   run: cp release/wwwroot/index.html release/wwwroot/404.html
-
-      # # Automatically fix the base href for GitHub subdirectories (e.g., username.github.io/repo-name/)
-      # - name: Fix base href
-      #   run: |
-      #     TAG="<base href=\"/\" />"
-      #     REPLACE="<base href=\"/${{ github.event.repository.name }}/\" />"
-      #     find release/wwwroot -name "index.html" -type f -exec sed -i "s|$TAG|$REPLACE|g" {} +
-
-      # - name: Upload artifact for GitHub Pages
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: release/wwwroot
-
-  # deploy:
-  #   needs: build
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     pages: write
-  #     id-token: write
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.url }}
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -2,6 +2,8 @@
 
 A spelling game for English speakers practising Danish nouns (Blazor WebAssembly, .NET 10).
 
+**Play it: <https://kreaton.github.io/CheckYourDanish/>**
+
 An English noun is shown with one box per letter of the Danish word, the first letter already
 filled in. Type the rest from left to right on the built-in keyboard (or your own), then choose
 the gender: **en** or **et**.
@@ -56,10 +58,10 @@ powershell -File tools\make-icons.ps1
 `Directory.Build.props` sets the version: Major.Minor by hand, and the patch is the GitHub Actions
 run number (0 for local builds). The footer shows the version, build time and git commit.
 
-## Deploy to FTP
+## Deploy
 
-`.github/workflows/deploy.yml` publishes and uploads to FTP on every push to `main` (or manually
-from the Actions tab). It uses these repository secrets:
+`.github/workflows/deploy.yml` publishes to GitHub Pages and uploads to FTP on every push to `main`
+(or manually from the Actions tab). The FTP upload uses these repository secrets:
 
 | Secret         | Example |
 |----------------|---------|
