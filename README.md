@@ -1,6 +1,7 @@
 # Check Your Danish
 
 [![Live app](https://img.shields.io/badge/live%20app-open-2ea44f)](https://kreaton.github.io/CheckYourDanish/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 ![Blazor WebAssembly](https://img.shields.io/badge/Blazor-WebAssembly-lightgrey)
 ![.NET 10](https://img.shields.io/badge/.NET-10-lightgrey)
 ![Installable web app](https://img.shields.io/badge/PWA-installable-lightgrey)
@@ -78,3 +79,7 @@ run number (0 for local builds). The footer shows the version, build time and gi
 | `FTP_FOLDER`   | `webroots/www/danish` (no trailing `/`) |
 
 The page uses a relative `<base href="./">`, so it works in any folder.
+
+## License
+
+[MIT](LICENSE) © 2026 Per Hejndorf.
