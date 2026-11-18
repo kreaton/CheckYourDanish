@@ -5,6 +5,9 @@
 ![Blazor WebAssembly](https://img.shields.io/badge/Blazor-WebAssembly-lightgrey)
 ![.NET 10](https://img.shields.io/badge/.NET-10-lightgrey)
 ![Installable web app](https://img.shields.io/badge/PWA-installable-lightgrey)
+[![GitHub stars](https://img.shields.io/github/stars/kreaton/CheckYourDanish?style=flat&logo=github&color=yellow)](https://github.com/kreaton/CheckYourDanish/stargazers)
+
+⭐ If Check Your Danish earns a place on your machine, [star it on GitHub](https://github.com/kreaton/CheckYourDanish) — it's free, made by one developer, and stars are how other people find it.
 
 ![Check Your Danish: spell the Danish nouns and get the gender right](images/banner.png)
 
