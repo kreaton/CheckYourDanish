@@ -6,6 +6,24 @@
       "runtimeExecutable": "dotnet",
       "runtimeArgs": ["run", "--project", "CheckYourDanish", "--launch-profile", "http", "--no-launch-browser"],
       "port": 5147
+    },
+    {
+      "name": "HikeLoc",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--project", "C:/Users/perhe/source/repos2026-2/HikeLoc/HikeLoc", "--no-launch-profile", "--urls", "http://localhost:5180"],
+      "port": 5180
+    },
+    {
+      "name": "ElForecast",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--project", "C:/Users/perhe/source/Claude/StromPriser/ElForecast", "--launch-profile", "http", "--no-launch-browser"],
+      "port": 5276
+    },
+    {
+      "name": "ElForecast-published",
+      "runtimeExecutable": "php",
+      "runtimeArgs": ["-S", "localhost:8099", "-t", "C:/Users/perhe/AppData/Local/Temp/claude/C--Users-perhe-source-repos2026-2-CheckYourDanish/4906552c-6ec0-4f02-a920-483d803c36e4/scratchpad/site"],
+      "port": 8099
     }
   ]
 }
